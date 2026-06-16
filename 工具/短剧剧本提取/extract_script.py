@@ -78,6 +78,21 @@ def download(url: str, out: Path) -> Path:
     return out
 
 
+def download_with_refresh(url: str, out: Path, book_id: str, ep_no: int) -> Path:
+    """下载失败时（如 URL 过期 403），重新拉 detail 拿最新 URL 重试"""
+    try:
+        return download(url, out)
+    except requests.HTTPError as e:
+        if e.response is not None and e.response.status_code in (403, 410):
+            print(f"      ⟲ URL 过期，重新拉详情...", end=" ", flush=True)
+            detail = fetch_drama_detail(book_id)
+            fresh = list_playable_episodes(detail)
+            new_url = next((u for n, u, _ in fresh if n == ep_no), None)
+            if new_url and new_url != url:
+                return download(new_url, out)
+        raise
+
+
 def extract_audio(mp4: Path, wav: Path) -> Path:
     if wav.exists() and wav.stat().st_size > 1024:
         return wav
@@ -124,13 +139,26 @@ def get_whisper(model_size: str = "small"):
     return _WHISPER_MODEL
 
 
-def transcribe(wav: Path, model_size: str = "small") -> List[Dict]:
+def transcribe(wav: Path, model_size: str = "small",
+               min_segments: int = 5) -> List[Dict]:
+    """先用 VAD 转一次；若段数过少（BGM 过响场景），关掉 VAD 再试一次。"""
     model = get_whisper(model_size)
     segments, _ = model.transcribe(
         str(wav), language="zh", beam_size=5, vad_filter=True,
         initial_prompt="这是一部中文短剧的台词。",
     )
-    return [{"start": s.start, "end": s.end, "text": s.text.strip()} for s in segments]
+    result = [{"start": s.start, "end": s.end, "text": s.text.strip()} for s in segments]
+    if len(result) < min_segments:
+        # 退化：关掉 VAD，更鲁棒
+        segments, _ = model.transcribe(
+            str(wav), language="zh", beam_size=5, vad_filter=False,
+            condition_on_previous_text=False,
+            initial_prompt="这是一部中文短剧的台词。",
+        )
+        result_no_vad = [{"start": s.start, "end": s.end, "text": s.text.strip()} for s in segments]
+        if len(result_no_vad) > len(result):
+            return result_no_vad
+    return result
 
 
 # -------- 剧本组装 --------
@@ -293,7 +321,7 @@ def extract_drama_to_script(
         print(f"    📥 下载...", end=" ", flush=True)
         t0 = time.time()
         try:
-            download(url, mp4)
+            download_with_refresh(url, mp4, book_id, ep_no)
             print(f"{mp4.stat().st_size // 1024} KB ({time.time()-t0:.1f}s)")
         except Exception as e:
             print(f"❌ {e}")
