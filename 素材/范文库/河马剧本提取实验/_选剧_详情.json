@@ -1,0 +1,1500 @@
+{
+  "book": {
+    "bookId": "41000132527",
+    "bookName": "情劫重生",
+    "coverWap": "https://seoali.zqkanshu.com/cppartner/4x1/41x0/410x0/41000132527/41000132527.jpg?t=1771407736561&imageView2/0/w/200/h/267",
+    "introduction": "顾言泽曾深陷于对苏婉星的卑微爱恋中，哪怕对方心中装着白月光沈知序，他依旧倾尽所有付出。直到一次次失望攒够，他终于清醒抽身。在这场感情的残局里，他认清了不值得的人，也邂逅了真正懂得珍惜他的林晓雨。最终，顾言泽告别错的人，与良人携手，收获了双向奔赴的幸福，迎来了属于自己的崭新人生。",
+    "bookTypeThree": [
+      {
+        "id": 838,
+        "name": "情感"
+      },
+      {
+        "id": 1127,
+        "name": "婚姻"
+      },
+      {
+        "id": 1129,
+        "name": "都市"
+      },
+      {
+        "id": 1115,
+        "name": "漫剧"
+      },
+      {
+        "id": 476,
+        "name": "强者回归"
+      },
+      {
+        "id": 1646,
+        "name": "动态漫"
+      }
+    ],
+    "totalChapterNum": "18",
+    "followCount": "2.58万",
+    "actor": "顾言泽",
+    "actress": "苏婉星",
+    "status": 1,
+    "statusDesc": "完本"
+  },
+  "detail": {
+    "pageProps": {
+      "bookInfoVo": {
+        "bookId": "41000132527",
+        "bookName": "情劫重生",
+        "coverWap": "https://seoali.zqkanshu.com/cppartner/4x1/41x0/410x0/41000132527/41000132527.jpg?t=1771407736561&imageView2/0/w/200/h/267",
+        "introduction": "顾言泽曾深陷于对苏婉星的卑微爱恋中，哪怕对方心中装着白月光沈知序，他依旧倾尽所有付出。直到一次次失望攒够，他终于清醒抽身。在这场感情的残局里，他认清了不值得的人，也邂逅了真正懂得珍惜他的林晓雨。最终，顾言泽告别错的人，与良人携手，收获了双向奔赴的幸福，迎来了属于自己的崭新人生。",
+        "bookTypeThree": [
+          {
+            "id": 838,
+            "name": "情感"
+          },
+          {
+            "id": 1127,
+            "name": "婚姻"
+          },
+          {
+            "id": 1129,
+            "name": "都市"
+          },
+          {
+            "id": 1115,
+            "name": "漫剧"
+          },
+          {
+            "id": 476,
+            "name": "强者回归"
+          },
+          {
+            "id": 1646,
+            "name": "动态漫"
+          }
+        ],
+        "totalChapterNum": "18",
+        "followCount": "2.58万",
+        "actor": "顾言泽",
+        "actress": "苏婉星",
+        "status": 1,
+        "statusDesc": "完本"
+      },
+      "chapterList": [
+        {
+          "chapterId": "609532710",
+          "chapterName": "第一集",
+          "isCharge": "0",
+          "chapterIndex": 1,
+          "videoStarsNum": "2.58万",
+          "likeNum": 5,
+          "chapterVideoVo": {
+            "mp4": "https://dzzt-video.cbread.cn/7d91e9cc53ef58e1f10eae53969495b2/6a2f78c0/01/7x2/72x5/725x2/72523100014/609532710_1/609532710.720p.narrowv3.mp4",
+            "m3u8": "https://dzzt-video.cbread.cn/7d91e9cc53ef58e1f10eae53969495b2/6a2f78c0/01/7x2/72x5/725x2/72523100014/609532710_1/609532710.720p.narrowv3.mp4",
+            "mp4720p": "https://dzzt-video.cbread.cn/7d91e9cc53ef58e1f10eae53969495b2/6a2f78c0/01/7x2/72x5/725x2/72523100014/609532710_1/609532710.720p.narrowv3.mp4",
+            "m3u8720p": "https://dzzt-video.cbread.cn/7d91e9cc53ef58e1f10eae53969495b2/6a2f78c0/01/7x2/72x5/725x2/72523100014/609532710_1/609532710.720p.narrowv3.mp4",
+            "encryptUrl": "https://dzzt-video.cbread.cn/e58a2299626392a1674e9de514a2f87d/6a2f78c0/01/7x2/72x5/725x2/72523100014/609532710_1/609532710.encrypt.mp4"
+          }
+        },
+        {
+          "chapterId": "609532711",
+          "chapterName": "第二集",
+          "isCharge": "1",
+          "chapterIndex": 2,
+          "videoStarsNum": "2.58万",
+          "likeNum": 2
+        },
+        {
+          "chapterId": "609532712",
+          "chapterName": "第三集",
+          "isCharge": "1",
+          "chapterIndex": 3,
+          "videoStarsNum": "2.58万",
+          "likeNum": 1
+        },
+        {
+          "chapterId": "609532713",
+          "chapterName": "第四集",
+          "isCharge": "1",
+          "chapterIndex": 4,
+          "videoStarsNum": "2.58万"
+        },
+        {
+          "chapterId": "609532714",
+          "chapterName": "第五集",
+          "isCharge": "1",
+          "chapterIndex": 5,
+          "videoStarsNum": "2.58万"
+        },
+        {
+          "chapterId": "609532715",
+          "chapterName": "第六集",
+          "isCharge": "1",
+          "chapterIndex": 6,
+          "videoStarsNum": "2.58万"
+        },
+        {
+          "chapterId": "609532716",
+          "chapterName": "第七集",
+          "isCharge": "1",
+          "chapterIndex": 7,
+          "videoStarsNum": "2.58万"
+        },
+        {
+          "chapterId": "609532717",
+          "chapterName": "第八集",
+          "isCharge": "1",
+          "chapterIndex": 8,
+          "videoStarsNum": "2.58万"
+        },
+        {
+          "chapterId": "609532718",
+          "chapterName": "第九集",
+          "isCharge": "1",
+          "chapterIndex": 9,
+          "videoStarsNum": "2.58万"
+        },
+        {
+          "chapterId": "609532719",
+          "chapterName": "第十集",
+          "isCharge": "1",
+          "chapterIndex": 10,
+          "videoStarsNum": "2.58万"
+        },
+        {
+          "chapterId": "609532720",
+          "chapterName": "第十一集",
+          "isCharge": "1",
+          "chapterIndex": 11,
+          "videoStarsNum": "2.58万"
+        },
+        {
+          "chapterId": "609532721",
+          "chapterName": "第十二集",
+          "isCharge": "1",
+          "chapterIndex": 12,
+          "videoStarsNum": "2.58万"
+        },
+        {
+          "chapterId": "609532722",
+          "chapterName": "第十三集",
+          "isCharge": "1",
+          "chapterIndex": 13,
+          "videoStarsNum": "2.58万"
+        },
+        {
+          "chapterId": "609532723",
+          "chapterName": "第十四集",
+          "isCharge": "1",
+          "chapterIndex": 14,
+          "videoStarsNum": "2.58万"
+        },
+        {
+          "chapterId": "609532724",
+          "chapterName": "第十五集",
+          "isCharge": "1",
+          "chapterIndex": 15,
+          "videoStarsNum": "2.58万"
+        },
+        {
+          "chapterId": "609532725",
+          "chapterName": "第十六集",
+          "isCharge": "1",
+          "chapterIndex": 16,
+          "videoStarsNum": "2.58万"
+        },
+        {
+          "chapterId": "609532726",
+          "chapterName": "第十七集",
+          "isCharge": "1",
+          "chapterIndex": 17,
+          "videoStarsNum": "2.58万"
+        },
+        {
+          "chapterId": "609532727",
+          "chapterName": "第十八集",
+          "isCharge": "1",
+          "chapterIndex": 18,
+          "videoStarsNum": "2.58万"
+        }
+      ],
+      "bookInfoVoList": [
+        {
+          "bookId": "41000222762",
+          "bookName": "退租后的空壳鸡舍",
+          "coverWap": "https://seoali.zqkanshu.com/cppartner/4x1/41x0/410x0/41000222762/41000222762.jpg?t=1781259967363&imageView2/0/w/200/h/267",
+          "introduction": "退伍军人陈守民返乡投身生态养殖，在青柳村耗费三年心血，打造出初具规模的跑山鸡养殖基地。因租赁合作生变，他果断带着全部设备与鸡群，转战隔壁青石村另起炉灶。凭借科学的养殖理念和中草药无抗养殖技术，陈守民的基地获得省农科院认可，挂牌成为省级绿色养殖示范基地。他牵头成立生态合作社，带动周边村民共同创业。后来陈守民回乡主持乡村振兴工作，带领乡亲们修通道、发展产业。",
+          "bookTypeThree": [
+            {
+              "id": 1696,
+              "name": "仿真人动态漫"
+            },
+            {
+              "id": 1712,
+              "name": "种田"
+            },
+            {
+              "id": 417,
+              "name": "逆袭"
+            },
+            {
+              "id": 1076,
+              "name": "励志"
+            },
+            {
+              "id": 918,
+              "name": "致富"
+            },
+            {
+              "id": 1129,
+              "name": "都市"
+            },
+            {
+              "id": 1115,
+              "name": "漫剧"
+            }
+          ],
+          "totalChapterNum": "63",
+          "followCount": "2.81万",
+          "actor": "陈守民",
+          "actress": "赵桂发",
+          "status": 1,
+          "statusDesc": "完本"
+        },
+        {
+          "bookId": "41000221831",
+          "bookName": "穿越之我见到了祖龙",
+          "coverWap": "https://seoali.zqkanshu.com/cppartner/4x1/41x0/410x0/41000221831/41000221831.jpg?t=1781229570879&imageView2/0/w/200/h/267",
+          "introduction": "何棋参观兵马俑时，被一道闪电劈回大秦，还带了一部能联网的智能手机。开局就指着骊山告诉秦始皇“陛下，这是您的皇陵！”凭借这部手机，赢政看到了大秦二世而亡的命运，也了解了华夏两千年的兴衰。为改变命运，何棋献上土豆、玉米等神物，革新造纸，组建“天地会”历练扶苏，招揽墨家、农家，用黑火药和超越时代的科技，辅佐秦始皇开启了一条截然不同的征服之旅。",
+          "bookTypeThree": [
+            {
+              "id": 1648,
+              "name": "3D漫"
+            },
+            {
+              "id": 417,
+              "name": "逆袭"
+            },
+            {
+              "id": 916,
+              "name": "穿越"
+            },
+            {
+              "id": 840,
+              "name": "权谋"
+            },
+            {
+              "id": 1115,
+              "name": "漫剧"
+            },
+            {
+              "id": 444,
+              "name": "古装"
+            }
+          ],
+          "totalChapterNum": "93",
+          "followCount": "1.88万",
+          "actor": "何棋",
+          "actress": "秦始皇",
+          "status": 1,
+          "statusDesc": "完本"
+        },
+        {
+          "bookId": "41000221342",
+          "bookName": "原来我只是个外人",
+          "coverWap": "https://seoali.zqkanshu.com/cppartner/4x1/41x0/410x0/41000221342/41000221342.jpg?t=1781167668436&imageView2/0/w/200/h/267",
+          "introduction": "陈屿农村出身，婚后七年倾尽所有救治岳母刘丽娟尿毒症，准备捐肾。苏家拆迁获八百万和房产，却分文未给陈屿。陈屿取消捐肾协议，苏曼琪以离婚威胁，陈屿毅然同意。苏家造谣陈屿出轨谋害岳母，陈屿当众揭露真相，舆论反转。刘丽娟被子女自私气到吐血，最终无人捐肾悔恨离世。陈屿彻底摆脱吸血家庭，开启新人生。",
+          "bookTypeThree": [
+            {
+              "id": 417,
+              "name": "逆袭"
+            },
+            {
+              "id": 837,
+              "name": "亲情"
+            },
+            {
+              "id": 838,
+              "name": "情感"
+            },
+            {
+              "id": 1126,
+              "name": "家庭"
+            },
+            {
+              "id": 441,
+              "name": "现实"
+            },
+            {
+              "id": 1129,
+              "name": "都市"
+            }
+          ],
+          "totalChapterNum": "43",
+          "followCount": "1.39万",
+          "actor": "卫仁越",
+          "actress": "陈云阶",
+          "status": 1,
+          "statusDesc": "完本"
+        },
+        {
+          "bookId": "41000221336",
+          "bookName": "退休之后我称王",
+          "coverWap": "https://seoali.zqkanshu.com/cppartner/4x1/41x0/410x0/41000221336/41000221336.jpg?t=1781164633232&imageView2/0/w/200/h/267",
+          "introduction": "退休老牌大厨陆怀山帮侄子白手起家做大酒楼，反倒被克扣报酬。愤然出走后接手濒临破产百年老店福春楼，凭借失传老宴席厨艺盘活老字号，深耕传统菜技艺一餐一味见人心，一灶一火守传承，看老匠人凭一身手艺守住老字号荣光，教会晚辈诚信做人、匠心立业。",
+          "bookTypeThree": [
+            {
+              "id": 1696,
+              "name": "仿真人动态漫"
+            },
+            {
+              "id": 1076,
+              "name": "励志"
+            },
+            {
+              "id": 837,
+              "name": "亲情"
+            },
+            {
+              "id": 441,
+              "name": "现实"
+            },
+            {
+              "id": 1129,
+              "name": "都市"
+            },
+            {
+              "id": 1115,
+              "name": "漫剧"
+            }
+          ],
+          "totalChapterNum": "90",
+          "followCount": "1.39万",
+          "actor": "陆怀山",
+          "actress": "许琳",
+          "status": 1,
+          "statusDesc": "完本"
+        },
+        {
+          "bookId": "41000221281",
+          "bookName": "全球高温末世，我建造了冷风堡垒",
+          "coverWap": "https://seoali.zqkanshu.com/cppartner/4x1/41x0/410x0/41000221281/41000221281.jpg?t=1781157016652&imageView2/0/w/200/h/267",
+          "introduction": "上一世，林天把命交给最爱的女友和最铁的兄弟，换来的却是背叛与惨死。重生回到高温末世爆发前一周，他不再心软。变卖资产、买下超市、打造恒温堡垒、囤满海量物资，一切只为这一次，绝不重蹈覆辙。他故意把渣女和兄弟送进四面环山的度假山庄，远程锁死车辆，断绝退路。当全球气温飙升至七十度，渣女的脸被高温毁容，兄弟为了半缸臭水反目成仇，两人跪在堡垒门前哭求开门。而林天端着冰镇红酒，身旁美女环绕，冷冷说了一句：滚。",
+          "bookTypeThree": [
+            {
+              "id": 1696,
+              "name": "仿真人动态漫"
+            },
+            {
+              "id": 417,
+              "name": "逆袭"
+            },
+            {
+              "id": 1714,
+              "name": "末世"
+            },
+            {
+              "id": 1716,
+              "name": "追夫火葬场"
+            },
+            {
+              "id": 838,
+              "name": "情感"
+            },
+            {
+              "id": 439,
+              "name": "重生"
+            },
+            {
+              "id": 441,
+              "name": "现实"
+            },
+            {
+              "id": 1129,
+              "name": "都市"
+            },
+            {
+              "id": 1162,
+              "name": "求生"
+            },
+            {
+              "id": 1115,
+              "name": "漫剧"
+            }
+          ],
+          "totalChapterNum": "50",
+          "followCount": "1.33万",
+          "actor": "林天",
+          "actress": "苏娜",
+          "status": 1,
+          "statusDesc": "完本"
+        },
+        {
+          "bookId": "41000220071",
+          "bookName": "大炎明心",
+          "coverWap": "https://seoali.zqkanshu.com/cppartner/4x1/41x0/410x0/41000220071/41000220071.jpg?t=1781071232829&imageView2/0/w/200/h/267",
+          "introduction": "现代灵魂穿越成青溪领领主陆哲，目睹种田能手林清禾被诬妖女将遭火刑，果断出手相救。他直面旱灾、蝗灾、投毒、叛军围剿，联合护卫苏禾、壮汉铁柱等人，以实干兴水利、治蝗灾、破神权骗局，建立公平工分与议事制度。陆哲一步步揭穿崇真教与大领主赵烈制造灾难、压榨百姓的阴谋，团结三地民众击退兽潮、平定叛乱，揭露王城权贵幕后黑手，在乱世中以民心为盾、实干为刃，走出一条自立自强的新生之路。",
+          "bookTypeThree": [
+            {
+              "id": 1696,
+              "name": "仿真人动态漫"
+            },
+            {
+              "id": 1712,
+              "name": "种田"
+            },
+            {
+              "id": 417,
+              "name": "逆袭"
+            },
+            {
+              "id": 916,
+              "name": "穿越"
+            },
+            {
+              "id": 1076,
+              "name": "励志"
+            },
+            {
+              "id": 1115,
+              "name": "漫剧"
+            },
+            {
+              "id": 444,
+              "name": "古装"
+            }
+          ],
+          "totalChapterNum": "86",
+          "followCount": "1210",
+          "actor": "陆哲",
+          "actress": "林清禾",
+          "status": 1,
+          "statusDesc": "完本"
+        },
+        {
+          "bookId": "41000220070",
+          "bookName": "铁道尽头是黎明",
+          "coverWap": "https://seoali.zqkanshu.com/cppartner/4x1/41x0/410x0/41000220070/41000220070.jpg?t=1781071232859&imageView2/0/w/200/h/267",
+          "introduction": "80年代陈远山顶职成为铁路扳道工，凭过目不忘的天赋以及勤奋工作崭露头角，却被偏心父亲和不争气的弟弟拖入泥潭。27秒舍命救下三百乘客，换来的竟是亲弟联合反派的致命诬陷。妻子苏雁秋硬刚全家、冒险进入反派办公室查找证据，拼死为他洗清冤屈。最后他从扳道房一路走到国际舞台，用实打实的技术撑起中国铁路的未来！可就在出国研修前夕，政审却因弟弟的前科突然卡壳。",
+          "bookTypeThree": [
+            {
+              "id": 1696,
+              "name": "仿真人动态漫"
+            },
+            {
+              "id": 417,
+              "name": "逆袭"
+            },
+            {
+              "id": 722,
+              "name": "年代剧"
+            },
+            {
+              "id": 1076,
+              "name": "励志"
+            },
+            {
+              "id": 837,
+              "name": "亲情"
+            },
+            {
+              "id": 1126,
+              "name": "家庭"
+            },
+            {
+              "id": 472,
+              "name": "小人物"
+            },
+            {
+              "id": 1115,
+              "name": "漫剧"
+            }
+          ],
+          "totalChapterNum": "61",
+          "followCount": "1200",
+          "actor": "陈远山",
+          "actress": "苏雁秋",
+          "status": 1,
+          "statusDesc": "完本"
+        },
+        {
+          "bookId": "41000219397",
+          "bookName": "一碗热菜守人心",
+          "coverWap": "https://seoali.zqkanshu.com/cppartner/4x1/41x0/410x0/41000219397/41000219397.jpg?t=1781004189111&imageView2/0/w/200/h/267",
+          "introduction": "六个老厨在村支书儿子百桌婚宴前夜集体逼宫，要求分红改招牌，撂挑子走人。宴席队老板陈长河早有准备，拿出父亲传下的陈家九大碗菜谱，连夜召集乡亲重组队伍。面对食材被偷、柴火被浇、反派低价抢单、恶意举报等刁难，他靠标准化流程和诚信经营，不仅圆满完成宴席，更做成镇里乡宴示范点，带出新人，守住了乡宴的良心与烟火气。",
+          "bookTypeThree": [
+            {
+              "id": 1648,
+              "name": "3D漫"
+            },
+            {
+              "id": 417,
+              "name": "逆袭"
+            },
+            {
+              "id": 1076,
+              "name": "励志"
+            },
+            {
+              "id": 838,
+              "name": "情感"
+            },
+            {
+              "id": 1126,
+              "name": "家庭"
+            },
+            {
+              "id": 1129,
+              "name": "都市"
+            },
+            {
+              "id": 1115,
+              "name": "漫剧"
+            }
+          ],
+          "totalChapterNum": "54",
+          "followCount": "9.45万",
+          "actor": "陈建国",
+          "actress": "马桂芳",
+          "status": 1,
+          "statusDesc": "完本"
+        },
+        {
+          "bookId": "41000219392",
+          "bookName": "你一个顺路司机，咋成公司大佬了",
+          "coverWap": "https://seoali.zqkanshu.com/cppartner/4x1/41x0/410x0/41000219392/41000219392.jpg?t=1781004114417&imageView2/0/w/200/h/267",
+          "introduction": "陆远好心顺路带新同事苏晓曼上下班，却被她仗着副总堂哥的关系一步步拿捏，不仅把他当成免费司机，还在公司里处处刁难。面对同事站队嘲讽，陆远表面忍让，暗中留证，将他们的违规处全部上报总部。直到董事长亲自出面调查，他们这才发现，自己一直欺负的“老实人”，身份根本不简单。",
+          "bookTypeThree": [
+            {
+              "id": 1696,
+              "name": "仿真人动态漫"
+            },
+            {
+              "id": 838,
+              "name": "情感"
+            },
+            {
+              "id": 441,
+              "name": "现实"
+            },
+            {
+              "id": 1129,
+              "name": "都市"
+            },
+            {
+              "id": 1115,
+              "name": "漫剧"
+            },
+            {
+              "id": 943,
+              "name": "职场商战"
+            }
+          ],
+          "totalChapterNum": "30",
+          "followCount": "9.44万",
+          "actor": "陆远",
+          "actress": "苏晓曼",
+          "status": 1,
+          "statusDesc": "完本"
+        },
+        {
+          "bookId": "41000219383",
+          "bookName": "表白被拒，高冷校花来跪舔",
+          "coverWap": "https://seoali.zqkanshu.com/cppartner/4x1/41x0/410x0/41000219383/41000219383.jpg?t=1781001440332&imageView2/0/w/200/h/267",
+          "introduction": "方逸舟暗恋校花萧芸多年表白接连被拒，重生后的方逸舟转而珍惜患难相伴的顾晓晓。萧芸落差难平接连构陷方逸舟与顾晓晓。方逸舟凭借前世的记忆和智慧，一步步化解危机，并帮顾晓晓挣脱压榨她的原生家庭，二人一路遭遇暗算、矛盾纠葛等诸多磨难，感情却愈发稳固，在看似即将尘埃渐定的幸福生活中，萧芸能甘心就此落败吗？",
+          "bookTypeThree": [
+            {
+              "id": 1696,
+              "name": "仿真人动态漫"
+            },
+            {
+              "id": 417,
+              "name": "逆袭"
+            },
+            {
+              "id": 838,
+              "name": "情感"
+            },
+            {
+              "id": 439,
+              "name": "重生"
+            },
+            {
+              "id": 1129,
+              "name": "都市"
+            },
+            {
+              "id": 1115,
+              "name": "漫剧"
+            }
+          ],
+          "totalChapterNum": "60",
+          "followCount": "9.43万",
+          "actor": "方逸舟",
+          "actress": "顾晓晓",
+          "status": 1,
+          "statusDesc": "完本"
+        },
+        {
+          "bookId": "41000219101",
+          "bookName": "武者归来护妻守家",
+          "coverWap": "https://seoali.zqkanshu.com/cppartner/4x1/41x0/410x0/41000219101/41000219101.jpg?t=1780999485523&imageView2/0/w/200/h/267",
+          "introduction": "楚河回归后第一时间救下被陈家和周家欺压的周婉。为了让周婉康复，他拿回骨血草、血灵芝等关键药材，又以暗影阁阁主和药王谷长老的身份清算陈家、叶家、沈家等旧势力。为守护挚爱，楚河一边寻珍稀药材帮周婉医治顽疾，一边步步布局，逐一搜集陈家、叶家、沈家的作恶证据。过程中结识莫桑、赵竞等人，在药王谷助力下帮周婉慢慢康复。最终陈、叶、沈三家公开承担后果，周婉也挣脱桎梏重拾事业，楚河也变成了真正守护家庭与秩序的人。",
+          "bookTypeThree": [
+            {
+              "id": 1696,
+              "name": "仿真人动态漫"
+            },
+            {
+              "id": 417,
+              "name": "逆袭"
+            },
+            {
+              "id": 838,
+              "name": "情感"
+            },
+            {
+              "id": 1129,
+              "name": "都市"
+            },
+            {
+              "id": 474,
+              "name": "高手下山"
+            },
+            {
+              "id": 1115,
+              "name": "漫剧"
+            }
+          ],
+          "totalChapterNum": "63",
+          "followCount": "9.15万",
+          "actor": "楚河",
+          "actress": "周婉",
+          "status": 1,
+          "statusDesc": "完本"
+        },
+        {
+          "bookId": "41000218985",
+          "bookName": "被扫地出门，我卤出百万身家",
+          "coverWap": "https://seoali.zqkanshu.com/cppartner/4x1/41x0/410x0/41000218985/41000218985.jpg?t=1780986857388&imageView2/0/w/200/h/267",
+          "introduction": "90年代，陈卫国守着祖传古法卤味秘方，起早贪黑帮家里经营着卤味小，却被父母狠心将卤味摊和独家秘方送给大哥，还被家人扫地出门，相恋多年的女友也迫于父母压力最终分手。跌入谷底的陈卫国靠着仅有的积蓄重启卤味生意，凭借独一份的秘制卤料、实在用料和踏实经营，从街头小摊一步步做到县城连锁卤味店，逆袭成为身家百万的卤味大王，带领同乡创业致富。",
+          "bookTypeThree": [
+            {
+              "id": 1696,
+              "name": "仿真人动态漫"
+            },
+            {
+              "id": 417,
+              "name": "逆袭"
+            },
+            {
+              "id": 722,
+              "name": "年代剧"
+            },
+            {
+              "id": 1076,
+              "name": "励志"
+            },
+            {
+              "id": 837,
+              "name": "亲情"
+            },
+            {
+              "id": 918,
+              "name": "致富"
+            },
+            {
+              "id": 1115,
+              "name": "漫剧"
+            }
+          ],
+          "totalChapterNum": "56",
+          "followCount": "9.04万",
+          "actor": "陈卫国",
+          "actress": "周德发",
+          "status": 1,
+          "statusDesc": "完本"
+        }
+      ],
+      "typeThreeList": [
+        {
+          "name": "青春",
+          "typeThreeIds": [
+            1170
+          ]
+        },
+        {
+          "name": "女帝",
+          "typeThreeIds": [
+            1165
+          ]
+        },
+        {
+          "name": "民国",
+          "typeThreeIds": [
+            839
+          ]
+        },
+        {
+          "name": "萌宝",
+          "typeThreeIds": [
+            589,
+            1175
+          ]
+        },
+        {
+          "name": "超能",
+          "typeThreeIds": [
+            442
+          ]
+        },
+        {
+          "name": "甜宠",
+          "typeThreeIds": [
+            462
+          ]
+        },
+        {
+          "name": "种田",
+          "typeThreeIds": [
+            1705,
+            1712
+          ]
+        },
+        {
+          "name": "豪门恩怨",
+          "typeThreeIds": [
+            585
+          ]
+        },
+        {
+          "name": "求生",
+          "typeThreeIds": [
+            1162
+          ]
+        },
+        {
+          "name": "乡村",
+          "typeThreeIds": [
+            1701,
+            1715
+          ]
+        },
+        {
+          "name": "反派",
+          "typeThreeIds": [
+            1166
+          ]
+        },
+        {
+          "name": "寻亲",
+          "typeThreeIds": [
+            1125
+          ]
+        },
+        {
+          "name": "读心术",
+          "typeThreeIds": [
+            1144,
+            1172
+          ]
+        },
+        {
+          "name": "律政",
+          "typeThreeIds": [
+            1427
+          ]
+        },
+        {
+          "name": "灵异",
+          "typeThreeIds": [
+            1713
+          ]
+        },
+        {
+          "name": "宫女",
+          "typeThreeIds": [
+            1700
+          ]
+        },
+        {
+          "name": "职场商战",
+          "typeThreeIds": [
+            943
+          ]
+        },
+        {
+          "name": "古装仙侠",
+          "typeThreeIds": [
+            1102
+          ]
+        },
+        {
+          "name": "权谋",
+          "typeThreeIds": [
+            840,
+            1101
+          ]
+        },
+        {
+          "name": "追夫火葬场",
+          "typeThreeIds": [
+            1716
+          ]
+        },
+        {
+          "name": "青梅竹马",
+          "typeThreeIds": [
+            1185
+          ]
+        },
+        {
+          "name": "仿真人动态漫",
+          "typeThreeIds": [
+            1696,
+            1697
+          ]
+        },
+        {
+          "name": "神话",
+          "typeThreeIds": [
+            1094
+          ]
+        },
+        {
+          "name": "女高手下山",
+          "typeThreeIds": [
+            1297
+          ]
+        },
+        {
+          "name": "竞赛",
+          "typeThreeIds": [
+            1160
+          ]
+        },
+        {
+          "name": "欢喜冤家",
+          "typeThreeIds": [
+            717
+          ]
+        },
+        {
+          "name": "年代剧",
+          "typeThreeIds": [
+            716,
+            722
+          ]
+        },
+        {
+          "name": "赘婿",
+          "typeThreeIds": [
+            1710
+          ]
+        },
+        {
+          "name": "偷听心声",
+          "typeThreeIds": [
+            1707
+          ]
+        },
+        {
+          "name": "废柴",
+          "typeThreeIds": [
+            1711
+          ]
+        },
+        {
+          "name": "喜剧",
+          "typeThreeIds": [
+            917
+          ]
+        },
+        {
+          "name": "公主",
+          "typeThreeIds": [
+            1698
+          ]
+        },
+        {
+          "name": "古穿今",
+          "typeThreeIds": [
+            1179
+          ]
+        },
+        {
+          "name": "末世",
+          "typeThreeIds": [
+            1702,
+            1714
+          ]
+        },
+        {
+          "name": "亲情剧",
+          "typeThreeIds": [
+            835
+          ]
+        },
+        {
+          "name": "致富",
+          "typeThreeIds": [
+            918,
+            1149
+          ]
+        },
+        {
+          "name": "奇幻脑洞",
+          "typeThreeIds": [
+            721
+          ]
+        },
+        {
+          "name": "战神",
+          "typeThreeIds": [
+            1153,
+            1173
+          ]
+        },
+        {
+          "name": "强者回归",
+          "typeThreeIds": [
+            476
+          ]
+        },
+        {
+          "name": "系统",
+          "typeThreeIds": [
+            1159,
+            1706
+          ]
+        },
+        {
+          "name": "励志",
+          "typeThreeIds": [
+            1076,
+            1100
+          ]
+        },
+        {
+          "name": "现代奇幻",
+          "typeThreeIds": [
+            715
+          ]
+        },
+        {
+          "name": "复仇",
+          "typeThreeIds": [
+            416,
+            1708
+          ]
+        },
+        {
+          "name": "毒士",
+          "typeThreeIds": [
+            1174
+          ]
+        },
+        {
+          "name": "追妻火葬场",
+          "typeThreeIds": [
+            1293
+          ]
+        },
+        {
+          "name": "马甲",
+          "typeThreeIds": [
+            719
+          ]
+        },
+        {
+          "name": "王妃",
+          "typeThreeIds": [
+            1148
+          ]
+        },
+        {
+          "name": "亲情",
+          "typeThreeIds": [
+            837
+          ]
+        },
+        {
+          "name": "小人物",
+          "typeThreeIds": [
+            472
+          ]
+        },
+        {
+          "name": "无敌",
+          "typeThreeIds": [
+            1074
+          ]
+        },
+        {
+          "name": "职场",
+          "typeThreeIds": [
+            1156
+          ]
+        },
+        {
+          "name": "弃少",
+          "typeThreeIds": [
+            1167
+          ]
+        },
+        {
+          "name": "世情",
+          "typeThreeIds": [
+            1292
+          ]
+        },
+        {
+          "name": "功夫",
+          "typeThreeIds": [
+            1154
+          ]
+        },
+        {
+          "name": "破镜重圆",
+          "typeThreeIds": [
+            1183
+          ]
+        },
+        {
+          "name": "皇后",
+          "typeThreeIds": [
+            1699
+          ]
+        },
+        {
+          "name": "悬疑",
+          "typeThreeIds": [
+            445,
+            470
+          ]
+        },
+        {
+          "name": "古装",
+          "typeThreeIds": [
+            444
+          ]
+        },
+        {
+          "name": "小说漫",
+          "typeThreeIds": [
+            1694,
+            1695
+          ]
+        },
+        {
+          "name": "玄学",
+          "typeThreeIds": [
+            1298
+          ]
+        },
+        {
+          "name": "玄幻仙侠",
+          "typeThreeIds": [
+            720
+          ]
+        },
+        {
+          "name": "轻松",
+          "typeThreeIds": [
+            1155,
+            1169
+          ]
+        },
+        {
+          "name": "包租公",
+          "typeThreeIds": [
+            1181
+          ]
+        },
+        {
+          "name": "庶女",
+          "typeThreeIds": [
+            1301
+          ]
+        },
+        {
+          "name": "戏曲歌舞",
+          "typeThreeIds": [
+            1098
+          ]
+        },
+        {
+          "name": "逆袭",
+          "typeThreeIds": [
+            417,
+            464
+          ]
+        },
+        {
+          "name": "民国剧",
+          "typeThreeIds": [
+            590
+          ]
+        },
+        {
+          "name": "迪化",
+          "typeThreeIds": [
+            1176
+          ]
+        },
+        {
+          "name": "战争",
+          "typeThreeIds": [
+            1099
+          ]
+        },
+        {
+          "name": "替身",
+          "typeThreeIds": [
+            1157,
+            1168
+          ]
+        },
+        {
+          "name": "原配",
+          "typeThreeIds": [
+            1302
+          ]
+        },
+        {
+          "name": "神眼",
+          "typeThreeIds": [
+            1171
+          ]
+        },
+        {
+          "name": "漫剧",
+          "typeThreeIds": [
+            1115,
+            1589
+          ]
+        },
+        {
+          "name": "长生",
+          "typeThreeIds": [
+            1073
+          ]
+        },
+        {
+          "name": "神医",
+          "typeThreeIds": [
+            438
+          ]
+        },
+        {
+          "name": "暗恋",
+          "typeThreeIds": [
+            1184
+          ]
+        },
+        {
+          "name": "换亲",
+          "typeThreeIds": [
+            1296
+          ]
+        },
+        {
+          "name": "女性成长",
+          "typeThreeIds": [
+            463
+          ]
+        },
+        {
+          "name": "抗战谍战",
+          "typeThreeIds": [
+            1093
+          ]
+        },
+        {
+          "name": "电视剧",
+          "typeThreeIds": [
+            1092,
+            1097
+          ]
+        },
+        {
+          "name": "穿越时空",
+          "typeThreeIds": [
+            718
+          ]
+        },
+        {
+          "name": "修仙",
+          "typeThreeIds": [
+            1124
+          ]
+        },
+        {
+          "name": "闪婚",
+          "typeThreeIds": [
+            713
+          ]
+        },
+        {
+          "name": "高手下山",
+          "typeThreeIds": [
+            474
+          ]
+        },
+        {
+          "name": "真假千金",
+          "typeThreeIds": [
+            1182
+          ]
+        },
+        {
+          "name": "中年婚恋",
+          "typeThreeIds": [
+            1239
+          ]
+        },
+        {
+          "name": "动态漫",
+          "typeThreeIds": [
+            1646,
+            1650
+          ]
+        },
+        {
+          "name": "都市",
+          "typeThreeIds": [
+            1129
+          ]
+        },
+        {
+          "name": "空间",
+          "typeThreeIds": [
+            1303
+          ]
+        },
+        {
+          "name": "体育",
+          "typeThreeIds": [
+            1128
+          ]
+        },
+        {
+          "name": "嫡女",
+          "typeThreeIds": [
+            1300
+          ]
+        },
+        {
+          "name": "错认",
+          "typeThreeIds": [
+            1150
+          ]
+        },
+        {
+          "name": "鉴宝",
+          "typeThreeIds": [
+            1158
+          ]
+        },
+        {
+          "name": "厨神",
+          "typeThreeIds": [
+            1164
+          ]
+        },
+        {
+          "name": "家庭",
+          "typeThreeIds": [
+            714,
+            1126
+          ]
+        },
+        {
+          "name": "家庭主妇",
+          "typeThreeIds": [
+            1146
+          ]
+        },
+        {
+          "name": "女总裁",
+          "typeThreeIds": [
+            1163
+          ]
+        },
+        {
+          "name": "虐渣",
+          "typeThreeIds": [
+            1152
+          ]
+        },
+        {
+          "name": "神豪",
+          "typeThreeIds": [
+            475
+          ]
+        },
+        {
+          "name": "科幻",
+          "typeThreeIds": [
+            1130
+          ]
+        },
+        {
+          "name": "今古连通",
+          "typeThreeIds": [
+            1284
+          ]
+        },
+        {
+          "name": "电影",
+          "typeThreeIds": [
+            1091,
+            1096
+          ]
+        },
+        {
+          "name": "3D漫",
+          "typeThreeIds": [
+            1648,
+            1652
+          ]
+        },
+        {
+          "name": "古代言情",
+          "typeThreeIds": [
+            468
+          ]
+        },
+        {
+          "name": "校园",
+          "typeThreeIds": [
+            1703
+          ]
+        },
+        {
+          "name": "现实",
+          "typeThreeIds": [
+            441,
+            469
+          ]
+        },
+        {
+          "name": "重生",
+          "typeThreeIds": [
+            439,
+            465
+          ]
+        },
+        {
+          "name": "师生情",
+          "typeThreeIds": [
+            1161
+          ]
+        },
+        {
+          "name": "千金",
+          "typeThreeIds": [
+            1299
+          ]
+        },
+        {
+          "name": "穿越",
+          "typeThreeIds": [
+            916
+          ]
+        },
+        {
+          "name": "沙雕漫",
+          "typeThreeIds": [
+            1647,
+            1651
+          ]
+        },
+        {
+          "name": "总裁",
+          "typeThreeIds": [
+            1147
+          ]
+        },
+        {
+          "name": "婚姻",
+          "typeThreeIds": [
+            1127,
+            1709
+          ]
+        },
+        {
+          "name": "家国情仇",
+          "typeThreeIds": [
+            915
+          ]
+        },
+        {
+          "name": "虐恋",
+          "typeThreeIds": [
+            466
+          ]
+        },
+        {
+          "name": "中年",
+          "typeThreeIds": [
+            1304
+          ]
+        },
+        {
+          "name": "情感流",
+          "typeThreeIds": [
+            1294
+          ]
+        },
+        {
+          "name": "综艺",
+          "typeThreeIds": [
+            1642,
+            1643
+          ]
+        },
+        {
+          "name": "传承觉醒",
+          "typeThreeIds": [
+            473
+          ]
+        },
+        {
+          "name": "功夫武打",
+          "typeThreeIds": [
+            1095
+          ]
+        },
+        {
+          "name": "团宠",
+          "typeThreeIds": [
+            1151
+          ]
+        },
+        {
+          "name": "娱乐圈",
+          "typeThreeIds": [
+            1704
+          ]
+        },
+        {
+          "name": "情感",
+          "typeThreeIds": [
+            838
+          ]
+        },
+        {
+          "name": "现代言情",
+          "typeThreeIds": [
+            1145
+          ]
+        },
+        {
+          "name": "后悔流",
+          "typeThreeIds": [
+            1295
+          ]
+        }
+      ]
+    },
+    "__N_SSG": true
+  }
+}
