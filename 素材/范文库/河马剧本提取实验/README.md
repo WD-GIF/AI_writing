@@ -1,8 +1,33 @@
 # 河马短剧 → 真实剧本提取实验
 
-> **目标**: 从河马短剧（kuaikaw.cn）视频中**自动提取台词剧本**
-> **方法**: Whisper 中文语音转写 + ffmpeg 镜头切换检测 + 启发式旁白/对白识别
-> **现状**: 已完成 **8 部 × 5 集 = 40 集真实剧本**，共 **944 段台词，13,606 中文字**
+> **目标**: 从河马短剧（kuaikaw.cn）视频中**自动提取台词剧本 + 人物动作**
+> **方法**: Whisper 中文语音转写 + ffmpeg 镜头切换检测 + cnocr 烧屏字幕 + 关键帧抽取
+> **现状**: 已完成 **8 部 × 5 集 = 40 集真实剧本**
+>   - **944 段台词，13,606 中文字**
+>   - **225 张关键帧**（每场景一张，含 OCR 烧屏字幕）
+>   - **8 种题材覆盖**: 末世/追妻/萌宝/古言/都市/虐渣
+
+---
+
+## ⭐ 增强版剧本样例（《末世骗签》第02集，场景 7）
+
+```markdown
+### 场景 7
+
+![场景7画面](_frames/ep02_场景07.jpg)
+   ↑ 实际嵌入了一张人物画面 jpg
+
+> **烧屏字幕**: 今天怎么喝这么多
+
+`050.6` **「哎,齐哥哥,今天怎么喝这么多?家里那个穷酸货惹你不开心了。」**
+```
+
+**这一段同时包含**：
+1. **画面动作描述** ← 关键帧（JPG）显示人物表情/服装/场景
+2. **烧屏字幕** ← cnocr 识别画面中烧上去的字幕（往往是制作方原文）
+3. **Whisper 台词** ← 中文语音转文字（含时间戳）
+
+三者交叉印证 → 剧本质量大幅提升。
 
 ---
 
@@ -50,11 +75,13 @@
 
 ---
 
-## 🛠️ 流水线（`工具/短剧剧本提取/extract_script.py`）
+## 🛠️ 流水线
+
+### Stage 1：台词提取（`extract_script.py`）
 
 ```
-河马 API 拿 mp4 链接
-    ↓
+河马 API 拿 mp4 链接 (CDN 1h 签名)
+    ↓ download_with_refresh: 403 时自动重拉 URL
 requests 流式下载 (~5-15 MB/集)
     ↓
 ffmpeg 抽 16kHz mono wav 音频
@@ -70,6 +97,20 @@ faster-whisper small (CPU int8) 中文转写
 启发式判定 旁白/对白
     ↓
 输出 Markdown 剧本（单集 + 全集汇总）
+```
+
+### Stage 2：视觉增强（`add_visual.py`）
+
+```
+解析已生成剧本 md，抓每个场景起始时间
+    ↓
+ffmpeg -ss (start_time + 1.5s) 抽关键帧 → _frames/epXX_场景NN.jpg
+    ↓
+cnocr 识别画面文字（中文 PP-OCRv5_det 模型）
+    ↓
+过滤垃圾词 (画面为AI制作、VIP 等)
+    ↓
+插入到对应场景下：图片链接 + 烧屏字幕 + 原台词
 ```
 
 ---
@@ -119,7 +160,7 @@ faster-whisper small (CPU int8) 中文转写
 |---|---|---|
 | 免费集数限制 | 河马一般只放出前 5 集 | 元数据库 624 部剧情简介 + 5 集真剧本 = 完整框架可推全集 |
 | 同音字错 | 齐落白 / 齐洛白 / 七洛白 互串 | 跨集统一名字（人工修正一次即可） |
-| 无视觉动作 | 仅基于音频，没分析画面 | 后续可加 OCR 抽字幕 + vision 模型描述动作 |
+| ~~无视觉动作~~ | ~~仅基于音频，没分析画面~~ | ✅ **已解决**：每场景一张关键帧 + OCR 烧屏字幕 |
 | 字幕烧屏剧 | 漫剧/PPT 类台词少 BGM 大 | VAD fallback 已大幅缓解 |
 
 ---
@@ -192,12 +233,16 @@ python3 工具/短剧剧本提取/extract_script.py \
 
 ## 📦 依赖
 
-```
-pip install faster-whisper requests
+```bash
+pip install faster-whisper cnocr requests
 apt install ffmpeg
 ```
 
-无需 GPU。CPU int8 量化，4 vCPU 足够。
+无需 GPU。CPU int8 量化 Whisper + ONNX cnocr，4 vCPU 足够。
+
+首次会自动下载：
+- Whisper small 模型 (~467 MB)
+- cnocr 中文 OCR 模型 (~50 MB)
 
 ---
 
@@ -205,4 +250,5 @@ apt install ffmpeg
 
 - **dramamoyu** ([鱼C论坛分享](https://fishc.com.cn/thread-255057-1-1.html))：发现河马 API
 - **faster-whisper**：CPU 友好的 Whisper 实现
+- **cnocr** (breezedeus)：CPU 友好的 ONNX 中文 OCR
 - **河马短剧** (kuaikaw.cn)：开放公共 API
