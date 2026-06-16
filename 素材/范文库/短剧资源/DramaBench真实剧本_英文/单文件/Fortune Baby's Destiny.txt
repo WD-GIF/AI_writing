@@ -1,0 +1,193 @@
+# Fortune Baby's Destiny
+# ID: script_3594
+# 行数: 181
+
+# === 简介 ===
+A young girl cursed with bad luck must leave her temple home to find her destined family and break the curse that affects all around her.
+
+# === 剧本前半 (Fountain 格式) ===
+
+Title: Fortune Baby's Destiny
+Description: A young girl cursed with bad luck must leave her temple home to find her destined family and break the curse that affects all around her.
+
+INT. DILAPIDATED TEMPLE - DAY
+
+A dusty sunbeam cuts through the temple. FU BAO (8) sits on a cushion, perfectly still.
+
+MASTER SHAN YUAN (O.S.)
+Fu Bao.
+
+FU BAO opens her eyes.
+
+FU BAO
+Master?
+
+MASTER SHAN YUAN (60s), robes frayed at the edges, hurries in clutching a bowl of rice.
+
+MASTER SHAN YUAN
+Look. Actual alms.
+
+He offers it. A silver ingot drops in. They watch it harden into stone. Neither reacts—it's routine.
+
+Master sighs, then produces a steamed bun from his sleeve.
+
+MASTER SHAN YUAN
+Plan B.
+
+He turns toward the altar. His foot catches the threshold. He stumbles. The bun arcs through the air, petrifying before it lands.
+
+FU BAO
+Master!
+
+She catches his elbow. For a moment, she just holds him steady.
+
+FU BAO
+(quietly)
+I'll mend the threshold.
+
+MASTER SHAN YUAN
+The threshold is fine.
+
+He straightens with a wince.
+
+FU BAO (V.O.)
+Three brothers gone. Two winters without worshippers. Master says the temple follows the seasons, but I know which season I brought.
+
+MASTER SHAN YUAN
+What did I teach you about cause and effect?
+
+FU BAO
+That they're tangled like kites.
+
+MASTER SHAN YUAN
+Find where your string leads. It untangles everything.
+
+A roof tile SHATTERS beside them. This, too, is routine.
+
+But then Master flexes his fingers. The tips crumble to dust.
+
+FU BAO
+(staring)
+Master—
+
+MASTER SHAN YUAN
+The mountain is done with me, Little Fortune. It needs you to leave.
+
+FU BAO
+I can try harder. I'll—
+
+MASTER SHAN YUAN
+Then I'll be dust by winter. Is that what you want?
+
+Fu Bao's lip trembles. She shakes her head.
+
+MASTER SHAN YUAN
+(softening)
+Find the family that shares your name. They'll be the ones who need you most.
+
+He draws three yellow talismans. Presses them into her palm.
+
+MASTER SHAN YUAN
+One for true danger. That's all I can anchor from here.
+
+FU BAO
+What if I can't find them?
+
+MASTER SHAN YUAN
+What if you can?
+
+He turns her toward the gate.
+
+Fu Bao hesitates, then kneels. Three quick kowtows. She doesn't look back as she walks out.
+
+Master Shan Yuan watches her go, his hand still crumbling.
+
+
+# === 剧本后半 ===
+
+EXT. MOUNTAIN PATH - DAY
+
+The HE family bounces in a donkey cart. WU CHUNHUA (40s) counts coins. LI XIUE (50s) sits rigid. HE DA JIANG (30s) drives. HE DA SHAN (28) lounges.
+
+WU CHUNHUA
+Six hundred wen. For the risk.
+
+LI XIUE
+We agreed on four hundred.
+
+WU CHUNHUA
+That was before your pig died. Bad luck has a price.
+
+HE DA JIANG
+(quietly)
+The pig was sick.
+
+WU CHUNHUA
+The village calls it cursed. My cart, my rules.
+
+HE DA SHAN
+Just pay her, Big Brother. It's not like fortune favors you.
+
+LI XIUE
+A hundred wen for the return. Not one more.
+
+WU CHUNHUA
+Ha! Your eldest dead, your second sick—who else would take your grain? Who else would take you?
+
+LI XIUE
+You go too far!
+
+HE DA JIANG
+(firmly)
+Enough.
+
+The donkey STUMBLES. The cart jerks to a halt.
+
+HE DA SHAN
+Watch the road!
+
+HE DA JIANG
+(staring ahead)
+There's a child.
+
+FU BAO stands in the path, robes too big, smile too bright. Like she's holding something back.
+
+HE DA SHAN
+Perfect. More bad luck.
+
+Silence.
+
+FU BAO
+Excuse me. Are you the He family?
+
+Li Xiue's breath catches. He Da Jiang's knuckles whiten on the reins.
+
+FU BAO
+I think I'm supposed to come with you.
+
+A long beat. The wind moves through the trees.
+
+WU CHUNHUA
+(coldly amused)
+A hundred wen and you can have the whole lot of them. They're good at finding strays.
+
+Fu Bao's gaze never leaves Li Xiue's face. Searching.
+
+HE DA JIANG
+(to his wife, low)
+We can't even feed our own.
+
+LI XIUE
+(considering Fu Bao)
+We've lost enough.
+
+She doesn't reach for Fu Bao. But she doesn't turn away.
+
+FU BAO
+Thank you.
+
+She climbs into the cart. The axle CREAKS. The donkey brays again, but Wu Chunhua flicks the reins, and they roll forward.
+
+Fu Bao sits very still among them, holding her breath. Then she looks up and meets Li Xiue's eyes.
+
+Her smile is real this time. And desperate. And hopeful. All at once.

@@ -1,0 +1,210 @@
+# Days to Come
+# ID: script_0327
+# 行数: 198
+
+# === 简介 ===
+A wealthy businessman returns to his homeland and encounters his former love, now working as a cleaner, who no longer remembers him.
+
+# === 剧本前半 (Fountain 格式) ===
+
+Title: Days to Come
+Description: A wealthy businessman returns to his homeland and encounters his former love, now working as a cleaner, who no longer remembers him.
+
+INT. LUXURY CAR - DAY
+
+BO FENGFENG, in a sharp suit and gold-rimmed glasses, stares out the window. SHEN RUOYI, elegant and watchful, sits beside him.
+
+BO FENGFENG
+Finally back home.
+
+SHEN RUOYI
+Fengfeng, where are we going?
+
+BO FENGFENG
+I bought a house here.
+
+EXT. SU FAMILY VILLA - DAY
+
+A black luxury car drives toward a restored mansion.
+
+INT. LUXURY CAR - DAY
+
+SHEN RUOYI sees the villa and tenses.
+
+SHEN RUOYI
+The Su family estate?
+
+FLASHBACK:
+
+EXT. BURNING VILLA - NIGHT
+
+Flames consume the mansion. YOUNG BO FENGFENG, desperate, carries an unconscious woman in white (SU QIANQIAN) through smoke.
+
+END FLASHBACK.
+
+SHEN RUOYI
+You still can't forget her, can you?
+
+BO FENGFENG
+(reminiscing)
+Five years ago, after I made my first fortune, I bought this place.
+
+BO FENGFENG
+To remind myself what happened here.
+
+SHEN RUOYI
+(inner monologue)
+Remind yourself... or keep her close?
+
+SHEN RUOYI
+(plaintively)
+Fengfeng, why can't you look at me?
+
+BO FENGFENG
+I'll have the driver take you to the hotel. The banquet's in three days.
+
+SHEN RUOYI takes out a medicine bottle and hands it to BO FENGFENG.
+
+SHEN RUOYI
+Your health just recovered. Don't stop taking this.
+
+BO FENGFENG
+Okay.
+
+BO FENGFENG gets out.
+
+
+# === 剧本后半 ===
+
+EXT. VILLA ENTRANCE - DAY
+
+BO FENGFENG adjusts his suit, looking up at the mansion.
+
+FLASHBACK:
+
+EXT. SNOWY FIELD - NIGHT (5 YEARS AGO)
+
+Young BO FENGFENG in a white suit kneels in snow, holding a ring box to SU QIANQIAN, radiant in a winter coat.
+
+BO FENGFENG (V.O.)
+Qianqian...
+
+SU QIANQIAN
+(turning away)
+Don't, Bo. You can't even pay my father's debts. What life can you give me?
+
+EXT. BURNING VILLA - NIGHT (5 YEARS AGO)
+
+The villa erupts in flames. BO FENGFENG charges toward it as SHEN RUOYI shouts.
+
+SHEN RUOYI
+Fengfeng!
+
+INT. BURNING VILLA - NIGHT (5 YEARS AGO)
+
+BO FENGFENG finds unconscious SU QIANQIAN, picks her up.
+
+BO FENGFENG
+Qianqian, stay with me. I'm getting you out.
+
+He carries her out as glass shatters behind them.
+
+INT. HOSPITAL ROOM - DAY (5 YEARS AGO)
+
+BO FENGFENG wakes with bandaged hands. SHEN RUOYI sits nearby, her own hands bandaged.
+
+BO FENGFENG
+Qianqian?
+
+SHEN RUOYI
+She's alive. She asked me to tell you something.
+
+BO FENGFENG
+What?
+
+SHEN RUOYI
+(eyes down)
+She said... don't come looking. She doesn't need rescuing.
+
+BO FENGFENG lowers his head. Shen's grip tightens on her own bandages.
+
+END FLASHBACK.
+
+EXT. VILLA ENTRANCE - DAY
+
+Five years later.
+
+BO FENGFENG and a BUTLER walk toward the steps.
+
+INT. VILLA - DAY
+
+Two MAIDS polish the grand staircase.
+
+MAID A
+I heard Mr. Bo rebuilt everything exactly as it was. Down to the wallpaper.
+
+MAID B
+They say he keeps one room locked. No one's allowed inside.
+
+SU QIANQIAN, in cleaning clothes with worn hands, mops the marble floor, concentrated.
+
+The CLEANING SUPERVISOR approaches.
+
+CLEANING SUPERVISOR
+You're on the foyer? Mr. Bo's early. Finish within the hour.
+
+SU QIANQIAN
+Okay.
+
+INT. VILLA FOYER - DAY (MOMENTS LATER)
+
+BO FENGFENG enters, stopping short of the wet floor.
+
+SU QIANQIAN
+(panicked)
+Sorry—I'll move—
+
+She looks up. Their eyes meet. Bo's breath catches. Qianqian's forehead creases with vague recognition.
+
+BO FENGFENG
+Qianqian... what are you doing here?
+
+SU QIANQIAN
+You know me?
+
+BO FENGFENG
+(soft laugh, bitter)
+So you really don't remember.
+
+SU QIANQIAN
+(cautious)
+I think you have the wrong person. I'm just staff.
+
+SU QIANQIAN stands to leave. BO FENGFENG blocks her path.
+
+BO FENGFENG
+(low)
+Stay.
+
+Qianqian freezes. They stand inches apart.
+
+SU QIANQIAN
+(voice small)
+Why does your voice sound like tears?
+
+BO FENGFENG
+Because I've been waiting five years to ask you a question.
+
+BO FENGFENG opens a door—the one the maids mentioned.
+
+BO FENGFENG
+After you see what's inside, you can decide if I'm a stranger.
+
+SU QIANQIAN
+(hesitant)
+What's in there?
+
+BO FENGFENG
+The truth about who you were. And who we were.
+
+He holds out his bandaged hand—the fire scars visible. Qianqian stares at it, something flickering in her eyes.

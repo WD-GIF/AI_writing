@@ -1,0 +1,215 @@
+# If Only I Had Known
+# ID: script_4580
+# 行数: 203
+
+# === 简介 ===
+A woman who neglected her mother for years returns for her birthday, only to discover a tragic accident that changes everything.
+
+# === 剧本前半 (Fountain 格式) ===
+
+Title: If Only I Had Known
+Description: A woman who neglected her mother for years returns for her birthday, only to discover a tragic accident that changes everything.
+
+EXT. VILLAGE PATH - DAY
+
+Quick cuts: An elderly woman (WANG HUIRU, 70s) falls to the ground, her head hitting a stone. Blood trickles from her temple.
+
+WANG HUIRU
+(whispering, disoriented)
+Dalong... Xiaoting... the soup...
+
+A college student (JIANG QINGYA, 20s) jogs along the path, stopping short at the sight. She rushes forward, kneeling.
+
+JIANG QINGYA
+(gasping)
+Auntie Wang! Can you hear me?
+
+Jiang Qingya's fingers tremble as she dials her phone.
+
+WANG HUIRU
+(mumbling)
+Xiaoting's favorite... red dates...
+
+JIANG QINGYA
+(into phone, urgent)
+Emergency? Village path east of Willow Creek. Elderly woman, head trauma, unconscious. Yes, immediately!
+
+SIRENS wail in the distance, growing louder.
+
+JIANG QINGYA
+(squeezing Wang's hand)
+Stay with me. They're coming. Your children need you.
+
+The AMBULANCE screeches to a halt. DR. HU (40s) and a NURSE leap out.
+
+DR. HU
+Ma'am, move aside please.
+
+Dr. Hu performs a rapid assessment, his expression grim.
+
+DR. HU
+(to Nurse)
+GCS 8, possible epidural hematoma. Let's move. Sir, we need family contact.
+
+JIANG QINGYA
+I live nearby. I can sign, but please—save her first.
+
+DR. HU
+Get in.
+
+INT. SEDAN - DAY
+
+CHEN XIAOTING (35), polished nails gripping the wheel, navigates narrow village roads.
+
+CHEN XIAOTING
+(into bluetooth)
+Brother, I'm literally five minutes away. Put Mom on, I'll apologize for being late.
+
+CHEN DALONG (V.O.)
+She's not answering. It's her birthday, Ting. She waited all morning.
+
+CHEN XIAOTING
+(exhaling sharply)
+I know. I bought her that coat she wanted. And these cakes from Shanghai—cost a fortune. I'm trying, okay?
+
+She checks her reflection, dabbing lipstick.
+
+CHEN DALONG (V.O.)
+Dad died waiting for us to come home. Don't let Mom—
+
+CHEN XIAOTING
+(cutting him off)
+I'm here now. That's what matters.
+
+The ambulance ROARS around a blind curve, directly toward her.
+
+CHEN XIAOTING
+(screaming)
+Move! Move!
+
+She jerks the wheel, mounting the embankment. Metal SCREECHES—her mirror rips off, smashing against the ambulance. The vehicle shudders to a halt.
+
+CHEN XIAOTING
+(clutching her bleeding hand)
+You maniac!
+
+She stumbles out, ready to scream, then freezes.
+
+Through the ambulance's open rear doors, she sees Dr. Hu working frantically. The patient is tiny, frail. A flash of gray hair. A familiar sweater.
+
+Her breath catches. The cake box tumbles from her hands.
+
+
+# === 剧本后半 ===
+
+INT. HOSPITAL CORRIDOR - DAY
+
+Chen Xiaoting sprints after the gurney, blood dripping from her hand unnoticed.
+
+CHEN XIAOTING
+(panicked)
+Mom? Mom! That's my mother!
+
+DR. HU
+(stern)
+Wait here.
+
+The double doors SLAM shut. Chen Dalong (40s) rushes in, breathless.
+
+CHEN DALONG
+Mom? Where is she? What happened?
+
+CHEN XIAOTING
+(whispering)
+I saw her, Dalong. I saw her on that stretcher. The blood...
+
+Her legs give way. He catches her.
+
+CHEN DALONG
+(to reception)
+Our mother—Wang Huiru—just arrived. I'm her son.
+
+RECEPTIONIST
+Sir, the doctor needs consent for emergency craniotomy. Are you immediate family?
+
+CHEN XIAOTING
+(voice cracking)
+I'm her daughter. I'll sign. I'll sign anything.
+
+She grabs the forms, her designer handbag slipping from her shoulder.
+
+INT. HOSPITAL WAITING ROOM - NIGHT
+
+Four hours later. The brothersister sit in silence. Chen Xiaoting's nails are chipped, her coat stained with her own blood.
+
+DR. HU enters, surgical cap in hand. They spring up.
+
+DR. HU
+She's stable. We relieved the pressure. But...
+
+He pauses.
+
+DR. HU (CONT'D)
+Mrs. Wang signed a DNR three years ago. She has extensive cerebral hemorrhage. Even if she wakes, quality of life...
+
+CHEN XIAOTING
+(swaying)
+Three years ago? When Dad died?
+
+DR. HU
+(nods)
+She didn't want to burden her children. Said you'd moved to the city, had important lives.
+
+Chen Xiaoting stumbles to a chair, the words a physical blow.
+
+CHEN DALONG
+(quietly)
+We haven't been home in three years, Ting. Three birthdays we missed.
+
+INT. HOSPITAL ROOM - NIGHT
+
+Wang Huiru lies unconscious, monitors beeping softly. Chen Xiaoting sits at her bedside, holding her weathered hand.
+
+CHEN XIAOTING
+(trembling)
+Mom... it's me. Xiaoting.
+
+She produces the cake box, crushed and smeared.
+
+CHEN XIAOTING (CONT'D)
+I brought your favorite. Red bean. Just like you used to make.
+
+A tear falls on their joined hands.
+
+CHEN XIAOTING (CONT'D)
+You called my name. You were waiting for me. And I... I almost hit the ambulance.
+
+She reaches into her bag, pulling out a designer coat.
+
+CHEN XIAOTING (CONT'D)
+This? This doesn't matter. None of it matters.
+
+She buries her face in her mother's arm.
+
+CHEN XIAOTING (CONT'D)
+Please. Just one more chance. Let me make the soup this time. Let me...
+
+EXT. VILLAGE HOUSE - DAY (FLASHBACK)
+
+A younger Wang Huiru stirs a pot, Chen Xiaoting (15) beside her.
+
+WANG HUIRU
+When I'm old, will you still make this for me?
+
+YOUNG CHEN XIAOTING
+Every single birthday, Mom. Promise.
+
+INT. HOSPITAL ROOM - NIGHT
+
+Chen Xiaoting looks at her mother, then at her own manicured hands. She begins picking at the nail polish, each chip a revelation.
+
+CHEN XIAOTING
+(to herself)
+Every... single... birthday.
+
+She curls up beside her mother, finally home.

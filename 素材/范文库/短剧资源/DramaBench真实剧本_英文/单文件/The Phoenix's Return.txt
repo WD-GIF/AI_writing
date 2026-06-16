@@ -1,0 +1,211 @@
+# The Phoenix's Return
+# ID: script_5675
+# 行数: 199
+
+# === 简介 ===
+A skilled healer saves a desperate woman from her abusive husband, unaware that a jade pendant will reconnect her to the palace and a forgotten past.
+
+# === 剧本前半 (Fountain 格式) ===
+
+Title: The Phoenix's Return
+Description: A skilled healer saves a desperate woman from her abusive husband, unaware that a jade pendant will reconnect her to the palace and a forgotten past.
+
+EXT. COURTYARD GATE - DAY
+
+YUN'ER (O.S.)
+Open the door, Yun'er!
+
+YUN'ER frantically pounds on a tightly shut wooden door.
+
+A fierce-looking THUG charges toward her.
+
+THUG
+(roaring)
+You think you can hide?
+
+YUN'ER turns, her face draining of color.
+
+CHANG GE steps from the shadows, her movements fluid and practiced. She flings a handful of powder.
+
+The THUG inhales, coughs violently, then stumbles, his hands clawing at his neck and arms.
+
+CHANG GE
+My own recipe. Feels like wasps beneath the skin. The antidote is timed.
+
+The THUG drops to his knees, gasping.
+
+THUG
+(hoarse pleading)
+Make it stop!
+
+CHANG GE
+Then listen carefully. You will forget Shen Yun'er's name. You will forget this town. If I see your face again, there is no second antidote.
+
+She tosses a wrapped leaf onto the dirt. The THUG snatches it and chews desperately.
+
+CHANG GE
+Now crawl away.
+
+The THUG staggers off. CHANG GE watches until he's gone, her jaw tight. She turns to the door, her expression softening almost imperceptibly.
+
+INT. COURTYARD - DAY
+
+YUN'ER peeks out, sees the empty street, and exhales sharply.
+
+YUN'ER
+You... you truly carry such poison?
+
+CHANG GE
+Only pepper and nettle. The fear does the rest.
+
+YUN'ER
+(quietly)
+I thought—
+
+CHANG GE
+(interrupting)
+You thought to use me as a shield. Again.
+
+YUN'ER
+(crying, voice cracking)
+He's worse when he drinks. Look.
+
+She pulls back her sleeve. Deep bruises pattern her arm, some old and yellowed, others fresh and dark.
+
+YUN'ER
+(touching her abdomen)
+And now there's the child.
+
+She sinks to her knees, gripping CHANG GE's hand.
+
+YUN'ER
+You promised. In the mountains, when we were barely twelve. You said if I ever needed—
+
+FLASHBACK:
+
+
+# === 剧本后半 ===
+
+EXT. WILDERNESS - DAY (WINTER)
+
+Snow blankets the ground. Young CHANG GE, bloodied and unconscious, is sheltered by a crude lean-to. Young YUN'ER, chapped hands and hollow cheeks, presses snow to her wounds.
+
+Young CHANG GE's eyes flutter open. She touches a rough wooden pendant at her neck.
+
+YOUNG CHANG GE
+(whisper)
+You stayed.
+
+YOUNG YUN'ER
+We protect each other now.
+
+END FLASHBACK.
+
+INT. COURTYARD - DAY
+
+CHANG GE stares at Yun'er. Her hand moves instinctively to her own throat, where a simple wooden pendant hangs.
+
+CHANG GE
+(softly)
+The jade one is packed away. Safe.
+
+YUN'ER
+(nodding frantically)
+Yes, yes. Just as you asked.
+
+CHANG GE helps her up, decision made.
+
+CHANG GE
+Then we leave tonight. He'll return with friends.
+
+YUN'ER
+(weeping with relief)
+The northern roads—
+
+CHANG GE
+Will take us to a new life. Come.
+
+TITLE: FIVE YEARS LATER
+
+EXT. HEALING HALL - DAY
+
+Under the faded Healing Hall sign, TOWNSPEOPLE bow deeply.
+
+TOWNSPEOPLE (V.O.)
+Your hands have blessed this town.
+
+INT. HEALING HALL - DAY
+
+CHANG GE takes an elderly woman's pulse, her touch gentle.
+
+CHANG GE
+Xiao Shiliu, angelica root, two liang.
+
+XIAO SHILIU (O.S.)
+Already measured!
+
+The boy, seven years old and quick-fingered, slides a packet onto the table.
+
+CHANG GE
+(approving)
+And three liang of platycodon. You read my mind.
+
+ELDERLY WOMAN
+The boy learns your heart.
+
+XIAO SHILIU beams.
+
+XIAO SHILIU
+Mother says healing is the only nobility that matters.
+
+Everyone chuckles warmly.
+
+YUN'ER enters, carrying a heavy tray. Her face is drawn, eyes hollow. She bumps an OLD MAN.
+
+OLD MAN
+Oh! Forgive me, lady—
+
+YUN'ER
+(sharp, exhausted)
+Watch your step. Can't you see I'm—
+
+She catches herself, shame flickering across her features.
+
+CHANG GE
+Yun'er. Rest.
+
+YUN'ER
+(curtly)
+Rest doesn't pay our debts.
+
+She disappears into the back room. XIAO SHILIU watches her go, his smile fading. He notices a crack in the wall panel. Prying it open, he finds a small cloth bundle.
+
+INT. HEALING HALL - CONTINUOUS
+
+XIAO SHILIU unwraps a carved white jade pendant, luminous and cool. He glances toward the back room, then slips it into his pocket.
+
+INT. PAWN SHOP - DAY
+
+XIAO SHILIU stands on his toes to reach the counter. He places the pendant down.
+
+XIAO SHILIU
+For my mother's medicine. How much?
+
+The PAWN SHOP OWNER's breath catches. He turns the pendant over, finding a royal seal on the back.
+
+PAWN SHOP OWNER
+(carefully)
+Thirty taels. For the craftsmanship.
+
+He pushes the silver forward. XIAO SHILIU hesitates, then takes it.
+
+INT. PALACE HALL - DAY
+
+HIS HIGHNESS sits rigid, reviewing tax ledgers. A GUARD enters, kneeling.
+
+GUARD
+Your Highness. The pendant surfaced in a border village. With a woman matching the description. And a boy. The scholars calculate his age at seven years.
+
+HIS HIGHNESS's hand stills. He looks up, his face a mask of old grief and sudden, terrible hope.
+
+FADE OUT.

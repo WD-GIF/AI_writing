@@ -1,0 +1,215 @@
+# Rise Against All Odds: A Life of Dominance
+# ID: script_0059
+# 行数: 203
+
+# === 简介 ===
+A young man wrongfully imprisoned for murder discovers his parents were killed while trying to clear his name, and a mysterious inmate offers him a chance to escape and seek revenge.
+
+# === 剧本前半 (Fountain 格式) ===
+
+Title: Rise Against All Odds: A Life of Dominance
+Description: A young man wrongfully imprisoned for murder discovers his parents were killed while trying to clear his name, and a mysterious inmate offers him a chance to escape and seek revenge.
+
+INT. PRISON SOLITARY CONFINEMENT CELL - DAY
+
+A SIGN on the wall reads: "SOLITARY CONFINEMENT AREA."
+
+CHEN XUEWEN, a young prisoner in a torn uniform with healing injuries, sits motionless against the concrete. The food slot opens.
+
+DU LAO, a middle-aged prisoner with glasses, peers through.
+
+DU LAO
+Your parents stopped coming. Three weeks ago.
+
+CHEN XUEWEN
+(voice hollow)
+They gave up.
+
+DU LAO
+Or someone made them stop. Forever.
+
+Chen jerks toward the bars.
+
+CHEN XUEWEN
+What are you saying?
+
+DU LAO
+They were coming to see me. About your case. Then they died. Car accident.
+
+CHEN XUEWEN
+(quietly)
+That's what I was told.
+
+DU LAO
+In Black Water, accident and execution look the same on paper. You want truth? Stay alive. Ghosts don't get answers.
+
+The slot slams shut.
+
+CUT TO:
+
+FLASHBACK - ONE MONTH AGO
+
+INT. PRISON CORRIDOR - DAY
+
+GUARDS shove CHEN XUEWEN through intake. He's clean-cut, terrified.
+
+CHEN XUEWEN
+(shouting)
+Officer! The timeline doesn't match—check the library cameras!
+
+GUARD #1
+Save it for your appeal, kid.
+
+They throw him into GENERAL POPULATION. The door CLANGS shut. SCARFACE, prisoner leader with a scar, watches from his bunk.
+
+SCARFACE
+Fresh meat thinks he's special.
+
+Chen is knocked to the ground.
+
+INT. PRISON CELL - DAY
+
+Prisoners surround newcomer CHEN XUEWEN.
+
+PRISONER A
+Kid.
+
+PRISONER B
+I heard you're in here for raping and killing a college girl. That true?
+
+CHEN XUEWEN
+(terrified)
+No—I was at the library—
+
+PRISONER B
+(sneering)
+Sure.
+
+SCARFACE steps forward. Punches Chen in the stomach. Chen doubles over.
+
+CHEN XUEWEN
+(gasping)
+Coward...
+
+SCARFACE
+(contemptuously)
+You talk back?
+
+SCARFACE kicks him down.
+
+SCARFACE
+Beat him until he learns.
+
+Prisoners rush forward. DU LAO watches coldly from his bunk.
+
+
+# === 剧本后半 ===
+
+INT. PRISON CAFETERIA - DAY
+
+Prisoners line up for food. CHEN XUEWEN, thinner now, approaches TRUSTEE GUARD RAMOS.
+
+CHEN XUEWEN
+Sir. My parents visited every other day. Now nothing. Please—can you check?
+
+RAMOS
+(avoiding eye contact)
+Stop talking. Eat your food.
+
+RAMOS moves off. Chen stands frozen. Behind him, OLD MAN WU (70s), a lifer, murmurs.
+
+OLD MAN WU
+They won't tell you official. But word travels. Car accident. Both of them. Last Tuesday.
+
+The food tray falls. Spills across the floor.
+
+CHEN XUEWEN
+(repeating)
+My parents... are dead?
+
+He stares at the mess. His hands shake—not with grief. With something colder.
+
+SCARFACE and followers approach, surrounding Chen.
+
+SCARFACE
+(mocking)
+College boy's learning his place. On the floor.
+
+SCARFACE spits on the spilled food.
+
+SCARFACE
+Show us how sorry you are.
+
+Prisoners laugh. Chen raises his head. His eyes are different now—empty of fear.
+
+CHEN XUEWEN
+(quietly)
+My parents are dead because of you people.
+
+SCARFACE
+What'd you say?
+
+Chen's hand darts out—grabs a broken shard. He launches at Scarface, drives him onto a table, shard at his throat.
+
+SCARFACE
+(terrified)
+I'm talking to you! Can't you hear me!
+
+CHEN XUEWEN
+(roaring)
+YOU THINK I'M EASY TO BULLY! FRAMING ME, KILLING THEM! I'M ALREADY DEAD—BUT I'M TAKING YOU!
+
+PRISON WARDEN BASONG arrives with guards.
+
+BASONG
+(shouting)
+STAND DOWN!
+
+Guards rush forward. Tasers crackle. Chen convulses. They drag him off. Through chaos, DU LAO watches.
+
+CHEN XUEWEN
+(struggling)
+Let me die! Let me die!
+
+DU LAO
+(to a guard)
+I'll calm him.
+
+Du Lao locks Chen in a chokehold. Whispers.
+
+DU LAO
+(whispering)
+Not here. Not like this.
+
+Chen goes limp.
+
+GUARD
+Take him to the hole!
+
+INT. PRISON SOLITARY CONFINEMENT CELL - NIGHT
+
+CHEN XUEWEN curls up in the corner, covered in fresh wounds, eyes vacant.
+
+CHEN XUEWEN
+(muttering)
+Mom... Dad... I'm coming...
+
+DU LAO appears at the cell door holding a broom and dustpan. He unlocks it.
+
+DU LAO
+Young man. Three days without food. You keep this up, you'll die. And no one will know why your parents were murdered.
+
+CHEN XUEWEN suddenly looks up. Grabs the bars.
+
+CHEN XUEWEN
+(urgently)
+What do you know?
+
+DU LAO
+I know they were silenced. I know who gave the order. And I know you have a choice.
+
+(beat)
+
+Become a ghost or become a weapon. But you can't be both.
+
+FADE OUT.

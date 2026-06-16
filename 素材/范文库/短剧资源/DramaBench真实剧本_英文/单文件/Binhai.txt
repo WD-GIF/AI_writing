@@ -1,0 +1,216 @@
+# Binhai
+# ID: script_5553
+# 行数: 204
+
+# === 简介 ===
+A down-on-his-luck man faces rejection, betrayal, and loss on his birthday, leading to a fateful encounter with a fox spirit who offers him a chance to change his destiny.
+
+# === 剧本前半 (Fountain 格式) ===
+
+Title: Binhai
+Description: A down-on-his-luck man faces rejection, betrayal, and loss on his birthday, leading to a fateful encounter with a fox spirit who offers him a chance to change his destiny.
+
+INT. COMPANY LOBBY - DAY
+
+A dozen JOB SEEKERS crowd the modern lobby, resumes in hand. ZHANG YE (30s, worn suit) sits apart, staring at his reflection in a window—practicing a smile that doesn't reach his eyes.
+
+The HR MANAGER emerges, flanked by SECURITY.
+
+HR MANAGER
+Thank you all for your time. We've made our selections. Those not called, please see yourselves out.
+
+Dispirited, the crowd shuffles toward the exit. Zhang Ye stays rooted, gripping his folder.
+
+ZHANG YE
+Sir, I've been waiting five hours. Could you just—five minutes?
+
+HR MANAGER
+( already walking away )
+Decisions are final.
+
+ZHANG YE
+My mother—she's sick. I need this job.
+
+The Manager pauses, then gestures to Security without looking back.
+
+Zhang Ye is gently but firmly escorted out.
+
+EXT. COMPANY ENTRANCE - DAY
+
+The guards deposit Zhang Ye on the sidewalk. His resume folder spills, papers scattering.
+
+SECURITY GUARD
+Some doors just don't open, brother. Don't take it personal.
+
+The guards retreat inside. Zhang Ye kneels, gathering papers as a light rain begins.
+
+His PHONE BUZZES. "Mom" flashes on screen. He stares at it, lets it ring twice before answering—voice steady, practiced.
+
+ZHANG YE
+Hey, Mom.
+
+ZHANG YE'S MOTHER (O.S.)
+How did it go?
+
+ZHANG YE
+( forcing brightness )
+Really well. They said they'd call this week.
+
+ZHANG YE'S MOTHER (O.S.)
+That's wonderful. You come home early, hear me? I made your favorite—stuffed lotus root. We'll celebrate properly.
+
+ZHANG YE
+(choking on the word)
+...Yeah.
+
+INT. ZHANG YE'S APARTMENT - DAY
+
+Small, cluttered. LI QIAN (late 20s) lounges on the sofa, phone pressed to her ear, laughing—an intimate, familiar laugh.
+
+LI QIAN
+...he's always at those pathetic interviews. You know I can't remember the last time he actually—
+
+She freezes. ZHANG YE'S MOTHER stands in the doorway, grocery bags slipping from her hands. A carton of eggs SMASHES on the floor.
+
+ZHANG YE'S MOTHER
+Qianqian... who were you talking to?
+
+LI QIAN
+(recovers, defensive)
+You scared me! Why are you sneaking around?
+
+ZHANG YE'S MOTHER
+I heard you. On the phone. Who is 'he'?
+
+Li Qian stands, smoothing her dress. A beat of silence. Then:
+
+LI QIAN
+Don't pretend you don't know. This life—this apartment, your medical bills—it's all on me now. Your son can't even keep a job for six months.
+
+ZHANG YE'S MOTHER
+(quietly)
+He's trying.
+
+LI QIAN
+Trying? I see his bank statements. The interviews. The rejections. I'm drowning here, and you're both—just—sinking me faster.
+
+She moves to leave. The older woman touches her arm.
+
+ZHANG YE'S MOTHER
+Please. We can—
+
+Li Qian yanks free. The mother stumbles, catches herself on the counter.
+
+LI QIAN
+(cold)
+I'm done being ashamed. I want my life back.
+
+She grabs her purse and exits, slamming the door.
+
+
+# === 剧本后半 ===
+
+INT. ZHANG YE'S APARTMENT - LATER
+
+Zhang Ye enters. The apartment is dim. Li Qian sits at the kitchen table, a document waiting beside her packed suitcase.
+
+ZHANG YE
+Mom called. She's staying with Auntie tonight—what's going on?
+
+LI QIAN
+She fell. I didn't touch her. But while we're being honest...
+
+She slides the document forward. "DIVORCE AGREEMENT."
+
+ZHANG YE
+You can't be serious.
+
+LI QIAN
+My lawyer drew it up. No contest, no alimony. Clean break.
+
+ZHANG YE
+(unfolding)
+Where will you go?
+
+LI QIAN
+(stands)
+Somewhere I don't have to pretend anymore.
+
+Clipped FOOTSTEPS echo from the hallway. A man's silhouette passes the door window. Li Qian's eyes follow it, just for a second—but Zhang Ye catches it.
+
+ZHANG YE
+(low)
+Him?
+
+LI QIAN
+At least he doesn't apologize for what he wants.
+
+She leaves. Zhang Ye stares at the closed door. His gaze falls to a GIFT BOX on the counter—small, wrapped in newspaper.
+
+He opens it: a modest cake, and a card in his mother's trembling hand.
+
+ZHANG YE'S MOTHER (V.O.)
+"Son—happy birthday. I'm proud of you, even when you're not. Eat something sweet. Love, Mom."
+
+Zhang Ye touches the cake frosting with one finger. It comes away red. His hands are shaking.
+
+EXT. BINHAI LAKE - NIGHT
+
+Mist rises off black water. Zhang Ye sits on the bank, surrounded by empty bottles. He doesn't drink—just stares at his reflection.
+
+ZHANG YE
+(to himself)
+Thirty-two years. Same face. Same story.
+
+A small WHITE FOX emerges from the reeds, watching him with amber eyes. It approaches, tentative.
+
+ZHANG YE
+Hey, little guy. You hungry too?
+
+He breaks off a corner of the cake from his pocket. The fox takes it delicately.
+
+ZHANG YE
+Yeah. Me too.
+
+He stands, walks to the water's edge. The fox follows, whining softly. Zhang Ye looks down at the dark surface.
+
+ZHANG YE
+(whispers)
+Just... tired.
+
+He takes another step. The water touches his shoes.
+
+The fox BARKS—once, sharp. Light blooms from it, fierce and silver. Zhang Ye shields his eyes. When he lowers his hand, a WOMAN stands there in white, fox-fire dancing around her fingertips.
+
+FOX SPIRIT
+You fed me. That debts a thread.
+
+ZHANG YE
+(stumbling back)
+What—?
+
+FOX SPIRIT
+One wish, mortal. But threads cut both ways. The price... will be part of you.
+
+ZHANG YE
+(desperate, laughing)
+Rich. I want to be rich. Powerful. So no one can—
+
+FOX SPIRIT
+(interrupting)
+So you can become the one who looks away?
+
+She smiles, knowing. The fox-fire flickers. Zhang Ye's bravado crumbles.
+
+ZHANG YE
+(quiet)
+I want... I want to matter.
+
+The Fox Spirit steps closer. Her fingers brush his chest.
+
+FOX SPIRIT
+Then we have a bargain.
+
+FADE OUT.
+
+ON SCREEN: TO BE CONTINUED

@@ -1,0 +1,203 @@
+# Mystic Sister Wants to Go Up the Mountain, Brothers Please Let Go
+# ID: script_5076
+# 行数: 191
+
+# === 简介 ===
+An orphan girl with a special fate must reunite with her lost family and find her destined partner to overcome a tribulation and ascend to immortality.
+
+# === 剧本前半 (Fountain 格式) ===
+
+Title: Mystic Sister Wants to Go Up the Mountain, Brothers Please Let Go
+Description: An orphan girl with a special fate must reunite with her lost family and find her destined partner to overcome a tribulation and ascend to immortality.
+
+INT. COURTYARD - DAY
+
+Close-up shot of an antique-style lantern.
+
+MASTER YUN LING, an old man with white hair and beard, wearing fashionable sunglasses and a Taoist robe, lounges leisurely in a chair in the courtyard, fanning himself.
+
+He picks up a teacup and takes a sip.
+
+MASTER YUN LING
+(intoxicated)
+Ah, excellent tea!
+
+EXT. SKY/COURTYARD - DAY
+
+Special effects shot. LING YA carries an unconscious man, SU TANG, on her shoulder. Surrounded by golden light, she descends from the sky and lands outside the courtyard.
+
+LING YA carries SU TANG into the courtyard.
+
+LING YA
+(excitedly)
+Master, I brought back a great treasure!
+
+MASTER YUN LING
+(startled, sitting up)
+Oh my, put him down quickly! Gently, gently!
+
+LING YA puts SU TANG on the ground. A white puppy named "WANGCAI" runs over. LING YA happily picks it up.
+
+LING YA
+Wangcai!
+
+LING YA holds the dog and speaks to her master.
+
+LING YA
+Master, he can actually replenish my spiritual energy!
+
+MASTER YUN LING
+(surprised, removing his sunglasses)
+What? He is your second brother. You two share a blood bond!
+
+LING YA
+(delighted)
+Then won't I be able to ascend soon?
+
+MASTER YUN LING
+(dismissively pointing at SU TANG on the ground)
+Rely on him? A hundred years wouldn't be enough!
+
+MASTER YUN LING
+(seriously)
+Aiya, you encountered a lightning tribulation during your ascension because you have the fate of a solitary star. To break this curse, you need to reunite with your family to complete your kinship line, and then find your destined partner to fulfill your marriage line. Only by reversing your fate this way can you ascend smoothly!
+
+LING YA
+Master, who is my destined partner?
+
+MASTER YUN LING
+(calculating with his fingers)
+Let me calculate.
+
+MASTER YUN LING'S face suddenly changes drastically.
+
+MASTER YUN LING
+(panicked)
+Oh no! Your destined one will die within three days! Only if you dual-cultivate with him can you save him!
+
+LING YA
+(shocked)
+What?!
+
+MASTER YUN LING
+Aiya, quickly return to the Su family with your second brother to reunite with your relatives, and hurry to save your destined one!
+
+LING YA
+Then I'll wake him up right now!
+
+LING YA prepares to cast a spell on SU TANG.
+
+MASTER YUN LING
+(hastily stopping her)
+Aiya, no! He's been poisoned with Soul Confusion Poison! Even I would need weeks to cure it properly. Don't waste your energy.
+
+MASTER YUN LING walks away, fanning himself.
+
+LING YA
+(thoughtfully)
+Soul Confusion Poison?
+
+LING YA suddenly thinks of something. Her eyes light up, and she turns and runs into the house.
+
+
+# === 剧本后半 ===
+
+INT. ROOM - DAY
+
+LING YA quickly searches through the bookshelf, pulls out an ancient text with "Essential Prescriptions from the Golden Cabinet" written on the cover.
+
+LING YA
+(happily)
+Got it!
+
+She opens the book and finds a page.
+
+LING YA
+Acupressure method.
+
+EXT. COURTYARD - DAY
+
+LING YA crouches beside the unconscious SU TANG, holding the book in one hand while gesturing at acupressure points on his body with the other.
+
+LING YA
+(pressing a point)
+Hm? Wrong point?
+
+She anxiously pats SU TANG.
+
+LING YA
+Wake up!
+
+She tries pressing another point. SU TANG'S fingers twitch.
+
+LING YA
+(confused)
+Hm? Wrong again? This shouldn't be. Isn't this what the book says?
+
+LING YA tosses the book aside and decides to do it herself.
+
+LING YA
+Try again!
+
+She frantically presses points all over SU TANG'S body, forcing spiritual energy through her fingertips to suppress the poison.
+
+Black screen. Text displays: 2 HOURS LATER
+
+SU TANG lies on the ground, his body twitching slightly.
+
+INT. ANCESTRAL HALL - NIGHT
+
+MASTER YUN LING meditates cross-legged in the ancestral hall. SU TANG slowly wakes up, leaning against the doorframe, looking dazed.
+
+SU TANG
+(weakly)
+Who am I?
+
+He shakily stands up and walks into the hall. At that moment, LING YA walks in carrying a large stone.
+
+SU TANG
+Excuse me, may I ask where this is?
+
+LING YA
+This is Yunling Temple. You fainted at the foot of the mountain. I brought you back.
+
+SU TANG
+(gratefully bowing)
+Many thanks for saving my life, hero.
+
+He straightens up, feeling something wrong with his entire body.
+
+SU TANG
+(painfully)
+But why does my whole body hurt?
+
+LING YA
+(eyes darting away, guiltily)
+It's not my fault! I mean, I don't know either.
+
+SU TANG'S phone rings. He takes it out to answer.
+
+SU TANG
+Hello, Dad.
+
+SU TAI'AN (V.O.)
+You're out fooling around every day. Do you still want this family or not?
+
+SU TANG
+Dad, I fainted. This hero saved me.
+
+SU TANG turns the phone camera toward LING YA. LING YA waves at the camera, showing a smile.
+
+SU TAI'AN (V.O.)
+Ah?
+
+On the phone screen, SU TAI'AN sees LING YA'S face and his eyes widen in shock.
+
+SU TAI'AN (V.O.)
+Ah? This...
+
+LING YA
+(sudden sharp pain in her chest, whispering)
+That voice...
+
+FADE OUT.

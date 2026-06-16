@@ -1,0 +1,207 @@
+# New Year's Eve
+# ID: script_0483
+# 行数: 195
+
+# === 简介 ===
+A desperate worker confronts his corrupt boss on a rooftop after being denied wages needed for his dying mother's surgery.
+
+# === 剧本前半 (Fountain 格式) ===
+
+Title: New Year's Eve
+Description: A desperate worker confronts his corrupt boss on a rooftop after being denied wages needed for his dying mother's surgery.
+
+INT. ROOFTOP - NIGHT
+
+Brilliant fireworks bloom in the night sky, snowflakes falling.
+
+ZHANG WEI, face bruised, clutches his mother's black-and-white portrait, standing at the edge of the rooftop.
+
+A group of COWORKERS watch him anxiously from a distance.
+
+ZHANG WEI
+(roaring)
+Wang Kun! Get Wang Kun up here!
+
+A COWORKER takes a careful step forward, holding a thermos.
+
+COWORKER
+Brother Zhang... it's New Year's. We brought dumplings. Still warm.
+
+ZHANG WEI
+Stay back! I'll jump!
+
+COWORKER
+He's coming! Just hold on!
+
+Boss WANG KUN arrives with foreman MA KAI and LI JUAN.
+
+WANG KUN
+(contemptuously)
+Zhang Wei. Come down. We can negotiate.
+
+ZHANG WEI
+(pointing at Wang Kun)
+Kowtow to my mother! Confess what you did!
+
+WANG KUN
+(laughing)
+Confess? Your mother died of illness. Tragic, but not my concern.
+
+ZHANG WEI
+(voice breaking with tears)
+You withheld my wages! Her surgery was tomorrow! You knew!
+
+MA KAI
+(stepping forward)
+Spoilage penalties. It's in the handbook you signed. Legal and documented.
+
+ZHANG WEI
+(furious)
+Legal? You changed the rules!
+
+LI JUAN
+(quietly)
+Zhang Wei... please. Don't make this worse. For both of us.
+
+ZHANG WEI
+(turning to Li Juan, sudden realization)
+You. You're wearing his watch.
+
+LI JUAN
+(defensive)
+I made a choice! Someone had to be realistic!
+
+WANG KUN
+(to Zhang Wei)
+You're a contractor, not family. We have procedures. Your mother—unfortunate timing.
+
+ZHANG WEI
+(despairingly)
+Timing...
+
+He looks at the portrait, then at the fireworks.
+
+WANG KUN
+I can offer 10,000. For funeral expenses. Sign the release, it's yours.
+
+ZHANG WEI
+Ten thousand. For her life.
+
+WANG KUN
+Business is business. Sign, or get nothing.
+
+ZHANG WEI becomes agitated, his foot slips on the icy edge, and he falls from the rooftop. He crashes heavily into the snow below, blood flowing from his mouth and nose, the portrait frame shattered.
+
+WANG KUN runs to the edge of the rooftop, looks down, then turns to face the crowd.
+
+WANG KUN
+(calmly)
+You all saw. He lost his footing. Tragic accident.
+(to Ma Kai)
+Call Chief Liu. Get the settlement papers ready.
+
+WANG KUN starts toward the stairs.
+
+WANG KUN
+(to Li Juan)
+Come on. There's a banquet waiting.
+
+He leaves. The fireworks continue, reflected in Li Juan's tears.
+
+TRANSITION: Several hours earlier
+
+
+# === 剧本后半 ===
+
+INT. FACTORY WORKSHOP - DAY
+
+Red lanterns hang in the workshop, full of New Year atmosphere. ZHANG WEI, wearing work clothes, is on the phone.
+
+ZHANG WEI
+(into phone, gently)
+Mom, doctor says deposit's due Monday. I'm getting 60,000 today. Yes, I'll be there tomorrow.
+
+ZHANG WEI hangs up, a smile on his face. He opens a small red notebook—meticulous medical expense tallies.
+
+Two COWORKERS chat nearby.
+
+COWORKER A
+Seven days straight. Glad this Gu Corp order's done.
+
+COWORKER B
+Boss made a fortune. Hope our bonuses reflect it.
+
+LI JUAN walks over to ZHANG WEI, looking at his red notebook.
+
+LI JUAN
+You're really getting 60,000? Buy me that phone, like you promised?
+
+ZHANG WEI
+(awkwardly)
+After Mom's surgery. She's first.
+
+LI JUAN
+(coldly)
+Always your mom. What about us?
+
+ZHANG WEI
+Don't be like that.
+
+LI JUAN
+(shaking off his hand)
+You don't get it.
+
+MA KAI and WANG KUN come down from upstairs.
+
+MA KAI
+Payday! When your name is called, take your envelope. Wang Qiang! Ma Jun! Li Jun! Zhou Wei! Zhang Wei!
+
+MA KAI throws ZHANG WEI's envelope on the ground. ZHANG WEI bends down to pick it up, looks inside, his expression changes drastically.
+
+ZHANG WEI
+(confused)
+Twelve thousand? My bonus alone is sixty!
+
+Other COWORKERS open their envelopes.
+
+COWORKERS
+(murmuring)
+This is half! What's this deduction? "Equipment fees"? "Management costs"?
+
+ZHANG WEI holds his envelope, looking up at WANG KUN in shock.
+
+ZHANG WEI
+Boss, this is wrong.
+
+WANG KUN
+(leaning on the railing)
+Section 8.4. Spoilage penalties. You all signed the updated handbook.
+
+ZHANG WEI
+I never—
+
+LI JUAN
+(quietly, beside him)
+Just sign it, Zhang Wei. It's how things are done.
+
+ZHANG WEI looks at her, then at Wang Kun, then at the red notebook in his hand.
+
+He walks toward the stairs.
+
+WANG KUN
+(calling after)
+Where are you going?
+
+ZHANG WEI
+(quietly)
+To see my mother.
+
+He exits. Wang Kun watches him go.
+
+WANG KUN
+(to Li Juan)
+He'll be back. They need the money.
+
+Li Juan nods, but her fingers tremble as she touches the gold watch on her wrist.
+
+ON SCREEN: TO BE CONTINUED

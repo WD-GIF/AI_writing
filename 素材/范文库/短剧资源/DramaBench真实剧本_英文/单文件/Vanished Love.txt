@@ -1,0 +1,194 @@
+# Vanished Love
+# ID: script_0564
+# 行数: 182
+
+# === 简介 ===
+A mother rushes her sick son to the hospital on her daughter's birthday, only to face her husband's fury and a devastating choice between her two children.
+
+# === 剧本前半 (Fountain 格式) ===
+
+Title: Vanished Love
+Description: A mother rushes her sick son to the hospital on her daughter's birthday, only to face her husband's fury and a devastating choice between her two children.
+
+EXT. HOSPITAL - DAY
+
+A series of fast-paced hospital shots: a nurse pouring saline solution, hospital bed wheels rolling rapidly, ambulance lights flashing, surgical instruments, blood bags.
+
+NURSE (V.O.)
+Incoming acute renal failure. Six-year-old male, status post. Prep the pediatric ICU team now!
+
+INT. HOSPITAL CORRIDOR - DAY
+
+ZHOU WENMEI, wearing a green dress, runs anxiously through the hospital corridor.
+
+ZHOU WENMEI
+Mingzhe, thank God—
+
+SU MINGZHE shoves ZHOU WENMEI against the wall, his face contorted with panic.
+
+SU MINGZHE
+(low, dangerous)
+Dr. Zhao said one more episode could kill him. One. And you took him to an amusement park?
+
+ZHOU WENMEI
+Tears streaming down her face, she reaches for him.
+
+ZHOU WENMEI
+(struggling for breath)
+Today is Yiyi's birthday. Xiaohui begged me. He wanted to feel normal, just for one hour—
+
+SU MINGZHE
+(fingers digging into her shoulders)
+Normal? My son will never be normal because you decided to have another child. The pregnancy complications weakened him. Every specialist said so.
+
+ZHOU WENMEI
+That's not how—
+
+SU MINGZHE
+(shoving her away)
+Since Yiyi was born, it's been infection after infection. The fortune teller was right. She's poisoned this family.
+
+ZHOU WENMEI
+(on her knees)
+She's four years old. Your daughter.
+
+SU MINGZHE
+My son is dying. My company is collapsing from his medical bills. She took everything from him before she could even walk.
+
+ZHOU WENMEI
+(crawling forward)
+Mingzhe, please. I know you blame me. But they're both my babies. I can't choose—
+
+SU MINGZHE
+(turning away)
+Then I'll choose for you. Where is she? I told Song to bring her.
+
+ZHOU WENMEI
+(panicking)
+Yiyi was right behind me in the lobby. She promised she'd stay with the receptionist—
+
+SONG YUANJIANG rushes over, his expression grim.
+
+SONG YUANJIANG
+Mr. Su, the receptionist says she never arrived at the desk.
+
+ZHOU WENMEI
+(frantic)
+What? No, I told her "wait by the flowers, don't move"—
+
+FLASHBACK
+
+
+# === 剧本后半 ===
+
+EXT. HOSPITAL ENTRANCE - DAY
+
+ON SCREEN: Twenty minutes ago
+
+ZHOU WENMEI carries XIAOHUI toward the sliding doors, YIYI clutching her dress.
+
+ZHOU WENMEI
+Yiyi, wait by the flower pots. Right here. Don't move until I come back.
+
+YIYI
+(trembling)
+Mommy, I'm scared.
+
+ZHOU WENMEI
+(fighting tears)
+Be my brave girl. Just for a little while.
+
+INT. HOSPITAL LOBBY - DAY
+
+Through the glass doors, we see ZHOU WENMEI sprint toward the ER. YIYI stands alone, watching. A large family rushes past, knocking her small backpack off her shoulders. As she bends to pick it up, she wanders a few steps away from the designated spot. A security guard approaches.
+
+END FLASHBACK
+
+INT. HOSPITAL CORRIDOR - DAY
+
+ZHOU WENMEI
+She's lost. Oh God, she's lost in the hospital—
+
+She bolts down the corridor.
+
+INT. HOSPITAL STAIRWELL - DAY
+
+SU MINGZHE and SONG YUANJIANG meet with DR. ZHAO.
+
+DR. ZHAO
+Xiaohui's creatinine levels are critical. He needs a transplant within weeks, not months.
+
+SU MINGZHE
+The previous compatibility tests—Yiyi was a match?
+
+DR. ZHAO
+(hesitant)
+She's a 95% match. But Mr. Su, she's under five. The ethics board will never approve harvesting a kidney from a minor without her consent and extensive evaluation.
+
+SU MINGZHE
+She can consent. She'll do anything for her brother.
+
+DR. ZHAO
+(carefully)
+Legally, she cannot. And your wife would need to—
+
+SU MINGZHE
+My wife would sign. If it meant saving Xiaohui.
+
+DR. ZHAO
+Mrs. Zhou would have to be evaluated for coercion. And Yiyi would need psychological screening. This isn't a simple procedure.
+
+SU MINGZHE
+(furious whisper)
+My daughter is missing in this hospital while my son codes upstairs. If we find her, and she agrees, will you file the paperwork?
+
+DR. ZHAO
+I can start the process. But Mr. Su, the board may still deny it.
+
+SONG YUANJIANG
+Sir, security footage shows Yiyi wandering toward the pediatric ward on the fourth floor. Alone.
+
+INT. HOSPITAL WARD - DAY
+
+YIYI sits on a hospital bed, clutching a stuffed rabbit. SU MINGZHE enters, his face transforming from panic to a fragile hope.
+
+SU MINGZHE
+(gently)
+Found you, little rabbit.
+
+YIYI
+Daddy! I got lost. I was trying to find Xiaohui's room.
+
+SU MINGZHE
+(sitting beside her)
+You want to help your brother?
+
+YIYI
+(nodding)
+Mommy says he's very sick.
+
+SU MINGZHE
+He needs a special gift. From inside you. A tiny bean that makes him better.
+
+YIYI
+(scared but brave)
+Will it hurt?
+
+SU MINGZHE
+A little. But you're so strong. You'd do that for Xiaohui?
+
+YIYI
+(wiping her eyes)
+If it makes him play with me again.
+
+SU MINGZHE
+(hugging her)
+Good girl. Such a good girl.
+
+He looks over her head at the NURSE entering.
+
+SU MINGZHE
+(to Nurse)
+Preliminaries first. Draw her blood. Start the assessment protocol.
+
+The NURSE approaches with a pediatric blood draw kit. YIYI extends her arm, trying to be brave. The rabbit falls from her lap.

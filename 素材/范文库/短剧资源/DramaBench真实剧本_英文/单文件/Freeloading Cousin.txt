@@ -1,0 +1,281 @@
+# Freeloading Cousin
+# ID: script_5746
+# 行数: 269
+
+# === 简介 ===
+A struggling young man's act of kindness leads to an unexpected opportunity that could change his fortune forever.
+
+# === 剧本前半 (Fountain 格式) ===
+
+Title: Freeloading Cousin
+Description: A struggling young man's act of kindness leads to an unexpected opportunity that could change his fortune forever.
+
+INT. ROAST DUCK SHOP - DAY
+
+COUSIN (20s, lean, quick-eyed) sweeps duck debris. His stomach RUMBLES. He glances at a GOLDEN CRISPY DUCK hanging by the counter.
+
+DUCK SELLER (40s, weary) bags a duck for a CUSTOMER. The Customer pays with worn bills.
+
+COUSIN'S eyes track the transaction. As the Customer turns, a piece of duck skin slides from the bag. In one fluid motion, Cousin catches it, pops it in his mouth.
+
+DUCK SELLER
+(catching him)
+Hey! What're you doing?
+
+COUSIN
+(chewing, casual)
+Cousin, just checking it's not spoiled.
+
+DUCK SELLER
+(snatching the broom)
+Spoiled my ass. You work three days, you eat for free. Those are the rules.
+
+COUSIN
+(grinning)
+Guess I'm still on day two, then.
+
+EXT. COUSIN'S HOUSE ENTRANCE - DAY
+
+Rain drizzles. GRANDPA (80s, frail but sharp) clutches a faded PHOTO of young Cousin with his parents.
+
+OLDER COUSIN (30s, well-fed) and his WIFE hustle Grandpa toward a waiting car.
+
+OLDER COUSIN
+We're late. Let's go.
+
+Grandpa turns back. Cousin stands in the doorway, holding a WARM BOILED EGG.
+
+COUSIN
+Grandpa. For the road.
+
+Grandpa takes it. Their hands touch. The rain falls harder between them. Grandpa's mouth trembles, but no words come. He nods once, slow and heavy.
+
+The car door SLAMS. Tail lights vanish into the gray downpour.
+
+EXT. WAREHOUSE - DAY
+
+Cousin hauls fifty-pound rice sacks. Sweat darkens his camo shirt. He stacks them with machine precision.
+
+BOSS (50s, gruff) counts cash, then holds out THREE RED BILLS.
+
+BOSS
+Five days. No complaints.
+
+Cousin takes the money. Counts it. Folds it carefully into his shoe.
+
+COUSIN
+Thank you, boss.
+
+BOSS
+(shrugging)
+You earned it. Come back Monday.
+
+EXT. OLD HOUSE - DAY
+
+Cousin trudges up to a sagging wooden house. Paint peels like old skin. He stops on the steps, exhausted.
+
+QIAN CAIQING (20s, beautiful despite threadbare clothes) sits on a stool, dabbing her lips with crushed petals for color. She spots him and smiles.
+
+QIAN CAIQING
+Tough day?
+
+COUSIN
+Forces a smile. Pulls out the three bills.
+
+COUSIN
+Got us something.
+
+He produces a small BUNDLE: second-hand clothes. She unfolds a dress. The SEAM splits slightly.
+
+QIAN CAIQING
+(laughing despite herself)
+Champion of the discount bins.
+
+COUSIN
+(defensive)
+The vendor said it was last year's style—
+
+QIAN CAIQING
+(pressing finger to his lips)
+Hush. It's perfect.
+
+She holds it against her body, twirls. For a moment, they both forget the roof leaks.
+
+COUSIN
+Your mother called again?
+
+QIAN CAIQING
+(sighs)
+She wants twenty thousand dowry. Or we wait another year.
+
+
+# === 剧本后半 ===
+
+EXT. STREET - DAY
+
+Cousin walks the crowded street in his warehouse camo. Billboards advertise LUXURY CARS, MANSIONS. He looks at his cracked phone screen: 86 RMB balance.
+
+A siren WAILS in the distance.
+
+EXT. ROAST DUCK SHOP - DAY
+
+MR. WANG (60s, elegant but unassuming) guides MRS. WANG (50s, pregnant, radiant) toward the shop.
+
+MR. WANG
+The skin is crispier than the city hotels.
+
+MRS. WANG
+Then what are we waiting—
+
+A SCREECH of tires. A DELIVERY VAN swerves toward them. Mr. Wang freezes.
+
+Cousin, passing by, SHOVES them aside. The van's MIRROR clips his shoulder. He hits the ground hard.
+
+Mrs. Wang screams. Blood pools beneath her.
+
+MR. WANG
+(frantic)
+Someone call an ambulance!
+
+COUSIN
+(clutching his arm)
+Hospital's two blocks. My tricycle's faster.
+
+He points to a battered THREE-WHEELER with a cargo bed.
+
+EXT. HOSPITAL - CONTINUOUS
+
+Cousin pedals wildly through traffic, Mr. Wang cradling Mrs. Wang in back.
+
+MR. WANG
+(holding her bleeding head)
+Stay with me. Please stay.
+
+INT. HOSPITAL EMERGENCY ROOM - DAY
+
+DOCTOR (40s, calm, urgent) and NURSES wheel Mrs. Wang away. Mr. Wang tries to follow. A NURSE stops him.
+
+NURSE
+Wait here.
+
+MR. WANG
+(to Cousin, trembling)
+You saved us. Thank you.
+
+COUSIN
+(grimacing at his own cut)
+She'll be okay. Strong lady.
+
+MR. WANG
+How can I ever—
+
+COUSIN
+Just doing what's right.
+
+The Doctor emerges, pulling off bloody gloves.
+
+DOCTOR
+Mr. Wang? Your wife has severe internal bleeding. She needs AB negative. We have... one unit. We need three.
+
+MR. WANG
+I'll pay anything. Import it.
+
+DOCTOR
+No time. The nearest is two hours away.
+
+COUSIN
+(quietly)
+I'm AB negative.
+
+MR. WANG
+(turning to him)
+What?
+
+COUSIN
+Test me. If it matches, take it.
+
+INT. HOSPITAL - BLOOD DRAW ROOM - DAY
+
+Cousin lies on a bed, tube in his arm. Blood flows dark red into a bag. He watches it, pale.
+
+Mr. Wang sits beside him, holds his other hand.
+
+MR. WANG
+I have no children. This baby was... our hope. Now I just want my wife.
+
+COUSIN
+You'll have both.
+
+MR. WANG
+Why are you doing this?
+
+COUSIN
+Someone once told me: when you can give, you give. That's all.
+
+INT. HOSPITAL CORRIDOR - LATER
+
+Cousin stumbles out, arm bandaged. Mr. Wang supports him.
+
+COUSIN
+(weak smile)
+You owe me a watermelon. The expensive kind.
+
+MR. WANG
+(laughs through tears)
+I'll buy you the whole farm.
+
+The Doctor reappears.
+
+DOCTOR
+She's stable. Your blood saved her.
+
+MR. WANG
+(to Cousin)
+My name is Wang Dekuang. My home is empty. Too empty. If you ever need...
+
+INT. HOSPITAL LOBBY - LATER
+
+BUTLER LIN (50s, precise) arrives with TWO BODYGUARDS. He takes in Cousin's bloodied camo, the bandage.
+
+BUTLER LIN
+Mr. Wang? Is Madam—
+
+MR. WANG
+Stable. Thanks to this young man. Where's the village project file?
+
+BUTLER LIN
+(pulling out a TABLET)
+Ready. But sir, the board—
+
+MR. WANG
+(to Cousin)
+You understand hard work. You understand sacrifice. Our rural education initiative needs someone who's lived it. Not another MBA.
+
+COUSIN
+(confused)
+Me? I barely finished high school.
+
+MR. WANG
+You finished life school. Top of your class. Try it. Three months. Paid.
+
+BUTLER LIN
+(softly, to Mr. Wang)
+Sir, his background check—
+
+MR. WANG
+I know exactly who he is. The only person who mattered when my world was ending.
+
+Butler Lin hesitates, then bows to Cousin.
+
+BUTLER LIN
+Young Master Wang. Welcome to Kuangshi Group.
+
+COUSIN
+(overwhelmed)
+I just wanted the watermelon.
+
+MR. WANG
+(chuckling)
+You'll get it. And maybe a future worth building.
+
+ON SCREEN: FREELOADING COUSIN - END OF EPISODE ONE

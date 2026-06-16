@@ -1,0 +1,209 @@
+# The Moon Shines on My Heart
+# ID: script_4598
+# 行数: 197
+
+# === 简介 ===
+A young wife says goodbye to her soldier husband who leaves for war just one month after their wedding. Thirty years later, a chance encounter at a hospital may reunite them.
+
+# === 剧本前半 (Fountain 格式) ===
+
+Title: The Moon Shines on My Heart
+Description: A young wife says goodbye to her soldier husband who leaves for war just one month after their wedding. Thirty years later, a chance encounter at a hospital may reunite them.
+
+INT. VILLAGE DIRT ROAD - DAY (THIRTY YEARS AGO)
+
+A military truck loaded with young soldiers slowly drives along. Villagers wave goodbye from the roadside, emotions running high.
+
+Young XIAO YUE (20s) grips the edge of the truck tightly, holding hands with her husband ZHOU GE (20s) on the truck, tears streaming down her face.
+
+ZHOU GE
+Xiao Yue, I'm sorry. Just one month after our wedding, I have to leave for the strait war. I've failed you.
+
+XIAO YUE
+(crying)
+Zhou Ge, you must come back safe and sound.
+
+ZHOU GE
+Don't worry. We'll definitely win in six months. Six months from now, wait for me to come home.
+
+The truck accelerates, forcing Xiao Yue to let go. She runs after the truck for a few steps, shouting loudly.
+
+XIAO YUE
+(shouting)
+Zhou Ge! Zhou Ge! I haven't told you yet - you're going to be a father! It's twins! We'll have both a son and a daughter!
+
+Zhou Ge on the truck leans out as far as he can, but due to the distance and noise, he can't hear clearly.
+
+ZHOU GE
+(shouting)
+Xiao Yue, what did you say? I can't hear you!
+
+The truck drives away. Xiao Yue stops running, caressing her belly, watching the departing truck, her face covered in tears.
+
+DISSOLVE TO:
+
+INT. XIAO YUE'S HOME - DAY
+
+Elderly XIAO YUE (50s) busies herself in the kitchen, preparing a table full of delicious dishes. She wears a smile, seemingly anticipating something.
+
+Her phone rings. Xiao Yue happily answers.
+
+XIAO YUE
+(on phone)
+(happy)
+Hello?
+
+DAUGHTER XIAO XIAO (V.O.)
+Mom? I hate to do this, but my boss just scheduled an emergency meeting for tonight. I tried everything to get out of it--
+
+Xiao Yue's smile falters. She forces brightness into her voice.
+
+XIAO YUE
+(on phone)
+It's okay, sweetie. Your career is important. We'll celebrate next weekend.
+
+Xiao Yue hangs up, looking at the prepared feast. The phone rings again.
+
+SON NIAN NIAN (V.O.)
+Mom, I'm so sorry. Your grandson has a fever and Jun's working late. I can't bring him out in this weather--
+
+XIAO YUE
+(on phone)
+Take care of my grandson. That's what matters. I'll save you both some mooncakes.
+
+She ends the call, staring at her reflection in the window. Her dog TU DOU nudges her hand.
+
+Later, Xiao Yue takes out a red marriage certificate from a drawer and gently opens it. She caresses the photo of her and Zhou Ge from their youth, then touches the well-worn edges.
+
+She places it beside a framed photo of her children as toddlers, then looks at a newer photo of her grandchildren on the wall.
+
+
+# === 剧本后半 ===
+
+INT. HOSPITAL LOBBY - DAY
+
+Xiao Yue stands in front of a self-service registration machine, squinting at the screen. Her hands tremble slightly as she touches it.
+
+A YOUNG MAN behind her shifts impatiently.
+
+YOUNG MAN
+Can you hurry up?
+
+XIAO YUE
+(flustered)
+I'm trying... this new system confuses me.
+
+YOUNG MAN
+(sighs)
+Then get your kids to help! Some of us have actual jobs to get back to.
+
+XIAO YUE
+(lowered voice)
+They're busy.
+
+She steps aside, clutching her hospital card. The young man brushes past.
+
+Xiao Yue approaches a help desk instead, where a NURSE notices her.
+
+INT. HOSPITAL INFUSION ROOM - DAY
+
+Xiao Yue sits alone in a chair receiving an IV drip. The bag is nearly empty. She watches the drip chamber, tracking each drop.
+
+Across the room, a HOSPITAL MAN (50s) - weathered face, graying hair - also sits with an IV. He glances at her.
+
+Xiao Yue notices him. She stares. His profile, his posture...
+
+Her breath catches. She studies his hands - one bears a faint scar across the knuckles.
+
+FLASHBACK: Zhou Ge's hand, young and strong, that same scar from a childhood accident.
+
+The Hospital Man feels her gaze and turns. Their eyes meet. He blinks, puzzled.
+
+XIAO YUE
+(whisper)
+Zhou... Ge?
+
+The man tilts his head. A flicker of something crosses his face - confusion, recognition, disbelief.
+
+HOSPITAL MAN
+(hoarse)
+Do I... know you?
+
+Xiao Yue trembles, tears filling her eyes. She touches her chest, then points to him.
+
+XIAO YUE
+It's me. Xiao Yue.
+
+He stares. The IV alarm BEEPS beside him. Neither moves.
+
+A NURSE approaches Xiao Yue.
+
+NURSE
+Ma'am, your drip's done.
+
+The Nurse removes Xiao Yue's needle. Xiao Yue doesn't look away from the man.
+
+The Nurse notices the tension, glances between them.
+
+NURSE
+(to Hospital Man)
+Sir? Your bag's empty too.
+
+He barely nods, still locked on Xiao Yue. The Nurse removes his needle.
+
+When the Nurse leaves, silence stretches between them.
+
+HOSPITAL MAN
+(quiet, strained)
+They told me... my family thought I was gone. I couldn't remember my name for twenty years. Only fragments.
+
+XIAO YUE
+(voice breaking)
+We waited. I waited.
+
+He looks down at his weathered hands. When he looks up, his eyes are wet.
+
+HOSPITAL MAN
+The twins?
+
+Xiao Yue nods slowly, tears streaming down her face.
+
+XIAO YUE
+A son and a daughter. Both grown. Two grandchildren now.
+
+She reaches into her bag with shaking hands and pulls out her phone. Shows him a photo of her family - her children, grandchildren.
+
+His hand trembles as he reaches for the phone.
+
+HOSPITAL MAN
+(whisper)
+I have a family.
+
+XIAO YUE
+You always did.
+
+He hands back the phone. Their fingers brush. A lifetime passes in that touch.
+
+HOSPITAL MAN
+I'm staying with... someone who helped me. After the war injuries. But... may I see them? The children?
+
+XIAO YUE
+(softly)
+They're your children too.
+
+For the first time, a small, hesitant smile touches his lips.
+
+HOSPITAL MAN
+Mid-Autumn Festival is next week. I remember... you promised to wait.
+
+XIAO YUE
+I never stopped.
+
+He nods, eyes glistening with resolve.
+
+HOSPITAL MAN
+Then... we still have time.
+
+Xiao Yue looks at him - this stranger who is her husband. The tears on her face are no longer just of sorrow.
+
+FADE OUT.

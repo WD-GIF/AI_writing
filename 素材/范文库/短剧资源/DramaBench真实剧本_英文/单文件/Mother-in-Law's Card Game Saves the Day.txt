@@ -1,0 +1,228 @@
+# Mother-in-Law's Card Game Saves the Day
+# ID: script_0942
+# 行数: 216
+
+# === 简介 ===
+A skilled card player mother-in-law wins at every table, but rushes to save her son-in-law when he's trapped in a gambling den after being set up.
+
+# === 剧本前半 (Fountain 格式) ===
+
+Title: Mother-in-Law's Card Game Saves the Day
+Description: A skilled card player mother-in-law wins at every table, but rushes to save her son-in-law when he's trapped in a gambling den after being set up.
+
+INT. COURTYARD MAHJONG TABLE - DAY
+
+Four women huddle around a crowded mahjong table in a tight community courtyard. QIN LING (60s, sharp-eyed, nimble fingers) casually arranges her tiles. Three NEIGHBORS sweat nervously.
+
+MALE CARD PLAYER
+(leaning over Aunt Zhang's shoulder)
+Hey, let me draw for you. Can't be worse than your luck.
+
+AUNT ZHANG
+(praying with hands together)
+God of Wealth, just once. Let me break even before my husband notices.
+
+CARD PLAYER A
+(impatiently)
+Play something. Anything.
+
+QIN LING
+(smiling faintly)
+Last tile.
+
+QIN LING reveals her hand with a quiet flourish.
+
+QIN LING
+Nine Gates. Pure and perfect.
+
+CARD PLAYER B
+(awestruck)
+Twenty years... first time I've seen a Nine Gates in the wild.
+
+AUNT ZHANG
+(defeated)
+That's six rounds straight. You should just empty my purse at the start.
+
+MALE CARD PLAYER
+(to others)
+Told you. Never bet against Qin Ling.
+
+QIN LING
+(gathering cash with practiced ease)
+Sun's getting low. My daughter's family is coming for dinner.
+
+AUNT ZHANG
+(grabbing her sleeve)
+One more round. Double stakes.
+
+QIN LING
+(standing firmly)
+When I'm good, I'm good. When I'm done, I'm done.
+
+CARD PLAYER B
+(to the table)
+Wins and walks. Every. Single. Time.
+
+INT. COURTYARD PAIGOW TABLE - DAY
+
+QIN LING crosses the courtyard to a rougher table where four MEN play Pai Gow. They stiffen as she approaches.
+
+CARD PLAYER C
+(covering his tiles)
+Sister Qin. We weren't expecting royalty.
+
+CARD PLAYER D
+(scrambling)
+Go, go, deal her in.
+
+CARD PLAYER C
+(sighing)
+I'm out. Folded before I started.
+
+QIN LING
+(sitting smoothly)
+Don't be dramatic. One hand.
+
+CARD PLAYER E
+(resigned)
+There goes my cigarette money for the month.
+
+The DEALER slides tiles. QIN LING's fingers dance across them.
+
+CARD PLAYER F
+(confident)
+Double nine cakes. Beat that, Sister Qin.
+
+QIN LING
+(laughing softly)
+Let me see.
+
+She reveals the Supreme Pair with a sharp snap.
+
+CARD PLAYER C
+(jumping back)
+Supreme Pair?! We're playing for pennies!
+
+CARD PLAYER E
+(to the ceiling)
+Why do I do this to myself?
+
+QIN LING
+(collecting the modest pot)
+Gentlemen, it's been educational.
+
+She stands, leaving them gaping.
+
+CARD PLAYER F
+That's it? One hand?
+
+CARD PLAYER D
+She's a phantom. A card shark phantom.
+
+
+# === 剧本后半 ===
+
+INT. INDOOR CARD TABLE - DAY
+
+QIN LING enters a smoky back room. XIAO LIU (20s, cocky) deals cards to three PLAYERS.
+
+XIAO LIU
+(slapping cards down)
+Today I bankrupt you grandpas.
+
+QIN LING
+(leaning in the doorway)
+Mind if I cut in, Xiao Liu?
+
+XIAO LIU
+(stuttering)
+A-Aunt Qin. I meant, please, sit.
+
+CARD PLAYER H
+(awed)
+You're everywhere.
+
+CARD PLAYER I
+(chuckling)
+Like a tax collector.
+
+QIN LING
+(settling in)
+Only for the careless.
+
+She plays with surgical precision.
+
+QIN LING
+Bomb. Straight. Triple with kicker. Spring hand. Pay.
+
+The table groans. She sweeps the money.
+
+EXT. COURTYARD - DAY
+
+QINGQING (30s, frantic) skids her bicycle into the courtyard, spots QIN LING emerging.
+
+QINGQING
+(gasping for breath)
+Aunt Qin! Da Niu's in trouble. They dragged him to the—
+
+QIN LING
+(calm exterior cracking)
+My son-in-law doesn't gamble.
+
+QINGQING
+Exactly! He refused, so they forced him. Said he owes "entertainment fees." Now he's down five thousand at Boss Zhou's den.
+
+QIN LING
+(eyes flashing)
+Get me there. Now.
+
+INT. GAMBLING DEN - DAY
+
+Smoke hangs thick. DA NIU (40s, terrified) sits at a dice table. His shirt is soaked with sweat and spilled beer. A HEAVY (30s, scarred) looms behind him.
+
+GAMBLERS
+Big! Big! Big!
+
+The dice settle. Wrong. DA NIU watches his last chips vanish.
+
+DA NIU
+(whispering)
+It's gone. My daughter's tuition...
+
+EXT. OUTSIDE GAMBLING DEN - DAY
+
+QINGQING's bicycle screeches to a halt. A NEIGHBOR woman waits, twisted with worry.
+
+FEMALE NEIGHBOR
+Sister Qin, thank heaven. They're not letting him leave. Says he owes interest now.
+
+QIN LING
+(striding forward)
+I brought interest.
+
+She pulls a thick roll of cash from her pocket.
+
+INT. GAMBLING DEN - CONTINUOUS
+
+QIN LING bursts through the door, QINGQING behind her. The room goes silent.
+
+QIN LING
+(to the room)
+My son-in-law's debt. I'll clear it.
+
+BOSS ZHOU (50s, gold chains) emerges from shadows.
+
+BOSS ZHOU
+(smiling coldly)
+A woman? How quaint. Double or nothing. Your money against his freedom.
+
+QIN LING
+(fierce smile)
+One hand. My game.
+
+She points to a pristine mahjong table in the corner.
+
+QIN LING
+Nine Gates. If I don't make it, you get everything. If I do, Da Niu walks.
+
+The room holds its breath.
