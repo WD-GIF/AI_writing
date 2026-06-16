@@ -1,4 +1,6 @@
-# 《Mr. Gu's Secret Criminal Wife》
+# 《古先生的秘密刑事妻子》
+
+> **English Title**: Mr. Gu's Secret Criminal Wife
 
 > **剧情简介**: 妇女作为她丈夫真爱的活血库,只为了让丈夫解雇和摧毁她的怀孕,由她结婚的男子来取代。
 

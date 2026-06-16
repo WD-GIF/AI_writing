@@ -1,4 +1,6 @@
-# 《Post-2000s Dad's Wild Parenting Style》
+# 《之后2000年代 爸爸的野生育儿风格》
+
+> **English Title**: Post-2000s Dad's Wild Parenting Style
 
 > **剧情简介**: 一名年轻男子穿越时间,成为8岁儿子的父亲,并参加为人父母的现实节目,他以游戏友好方式挑战传统教育方法。
 
