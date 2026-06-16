@@ -1,0 +1,22 @@
+# 爆文批量下载 URL 列表
+# 用法：python novel_downloader.py --batch urls_示例.txt
+#
+# 一行一个 URL，# 开头是注释会被忽略
+# 自动检测：包含 mp.weixin.qq.com → 公众号；biquge/bqg/xbiquge → 笔趣阁；其他 → 通用
+#
+# ====================================
+# 公众号短篇爽文示例（请替换为你想下载的真实 URL）
+# ====================================
+# https://mp.weixin.qq.com/s/xxxxx
+# https://mp.weixin.qq.com/s/yyyyy
+
+# ====================================
+# 笔趣阁系列短篇小说示例
+# ====================================
+# https://www.xbiquge.so/book/12345/
+# https://www.biquge.com/book/67890/
+
+# ====================================
+# 知乎专栏文章 / 通用网页示例
+# ====================================
+# https://zhuanlan.zhihu.com/p/xxxxx
