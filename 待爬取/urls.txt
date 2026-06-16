@@ -1,0 +1,19 @@
+# 爆文待爬取 URL 列表
+# 用法：在这里加 URL，然后跟我说"跑一下 urls.txt"
+# ====================================
+# 格式说明：
+# - 一行一个 URL
+# - # 开头是注释，会被忽略
+# - 空行被忽略
+# - 自动识别站点类型（不用指定）
+# ====================================
+
+# 公众号文章示例（请替换为真实 URL）
+# https://mp.weixin.qq.com/s/aaaa
+# https://mp.weixin.qq.com/s/bbbb
+
+# 笔趣阁系列短篇示例
+# https://www.biqu5200.com/book/xxxxx/
+
+# 知乎专栏文章示例
+# https://zhuanlan.zhihu.com/p/xxxxx
