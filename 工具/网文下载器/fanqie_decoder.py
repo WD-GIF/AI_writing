@@ -228,7 +228,10 @@ class FanqieDecoder:
         return ''.join(mapping.get(c, c) for c in text)
     
     def parse_book_page(self, book_url: str) -> Optional[Dict]:
-        """解析番茄书籍详情页，返回书名+章节列表"""
+        """解析番茄书籍详情页，返回书名+章节列表
+        
+        v2 升级：优先用 /api/reader/directory/detail JSON API，更稳定 + 含付费状态
+        """
         html = self.fetch(book_url)
         if not html:
             return None
@@ -239,7 +242,6 @@ class FanqieDecoder:
         title_el = soup.select_one('.info-name, h1.book-name')
         title = title_el.get_text(strip=True) if title_el else None
         if not title:
-            # 从 <title> 备选
             title_meta = soup.find('title')
             if title_meta:
                 title = re.sub(r'(完整版.*$|_番茄.*$)', '', title_meta.get_text(strip=True)).strip()
@@ -252,23 +254,59 @@ class FanqieDecoder:
                 author = text
                 break
         
-        # 章节列表
+        # 提取 book_id
+        book_id_match = re.search(r'/page/(\d+)', book_url)
+        book_id = book_id_match.group(1) if book_id_match else None
+        
+        # 优先：用 directory API（更稳定 + 含付费状态）
         chapters = []
-        seen = set()
-        for a in soup.find_all('a', href=re.compile(r'/reader/\d+')):
-            href = a.get('href', '')
-            ch_title = a.get_text(strip=True)
-            full_url = urllib.parse.urljoin(book_url, href)
-            if full_url not in seen and ch_title and not ch_title.startswith('最'):
-                # 去掉"最近更新"那种
-                chapters.append({'title': ch_title, 'url': full_url})
-                seen.add(full_url)
+        if book_id:
+            try:
+                api_url = f"https://fanqienovel.com/api/reader/directory/detail?bookId={book_id}"
+                api_data = self.fetch(api_url)
+                if api_data:
+                    import json as _json
+                    api_json = _json.loads(api_data)
+                    if api_json.get('code') == 0:
+                        ch_list = api_json['data']['chapterListWithVolume']
+                        # 平铺所有卷的章节
+                        for volume in ch_list:
+                            for ch in volume:
+                                chapters.append({
+                                    'title': ch['title'],
+                                    'url': f"https://fanqienovel.com/reader/{ch['itemId']}",
+                                    'item_id': ch['itemId'],
+                                    'need_pay': ch.get('needPay', 0),
+                                    'is_paid': ch.get('isPaidPublication', False),
+                                    'order': ch.get('realChapterOrder', ''),
+                                    'volume': ch.get('volume_name', ''),
+                                })
+                        self.log(f"  📋 通过 directory API 拿到 {len(chapters)} 章")
+            except Exception as e:
+                self.log(f"  ⚠️ directory API 失败: {e}，回退 HTML 解析")
+        
+        # 回退：HTML 解析（如果 API 失败）
+        if not chapters:
+            seen = set()
+            for a in soup.find_all('a', href=re.compile(r'/reader/\d+')):
+                href = a.get('href', '')
+                ch_title = a.get_text(strip=True)
+                full_url = urllib.parse.urljoin(book_url, href)
+                if full_url not in seen and ch_title and not ch_title.startswith('最'):
+                    chapters.append({
+                        'title': ch_title,
+                        'url': full_url,
+                        'need_pay': 0,
+                    })
+                    seen.add(full_url)
+            self.log(f"  📋 通过 HTML 解析拿到 {len(chapters)} 章（回退方案）")
         
         return {
             'title': title or 'unknown',
             'author': author,
             'chapters': chapters,
             'url': book_url,
+            'book_id': book_id,
         }
     
     def parse_chapter(self, chapter_url: str) -> Optional[Dict]:
@@ -350,11 +388,17 @@ class FanqieDecoder:
             f.write("=" * 50 + "\n\n")
             
             for i, ch in enumerate(book['chapters'], 1):
-                self.log(f"  [{i}/{len(book['chapters'])}] {ch['title'][:40]}", )
+                # 用 API 拿到的付费标记直接跳过
+                if ch.get('need_pay') == 1:
+                    self.log(f"  [{i}/{len(book['chapters'])}] {ch['title'][:40]} 💰 跳过（付费）")
+                    skipped += 1
+                    continue
+                
+                self.log(f"  [{i}/{len(book['chapters'])}] {ch['title'][:40]}")
                 
                 chapter = self.parse_chapter(ch['url'])
                 if not chapter:
-                    self.log(f"     ⚠️ 跳过（可能付费/失败）")
+                    self.log(f"     ⚠️ 跳过（解析失败）")
                     skipped += 1
                     continue
                 
