@@ -1,0 +1,12 @@
+{
+  "$comment": "儿童/绘本 | Storybird + Recraft + baoyu-comic（comic 为 Skill，见 .cursor/skills）",
+  "mcpServers": {
+    "recraft": {
+      "command": "npx",
+      "args": ["-y", "@recraft-ai/mcp-recraft-server@latest"],
+      "env": {
+        "RECRAFT_API_KEY": "${env:RECRAFT_API_KEY}"
+      }
+    }
+  }
+}
