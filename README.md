@@ -18,8 +18,15 @@ AI_writing/
 │   └── 第001章-示例.md
 ├── 灵感笔记/          # 临时想法、片段、桥段、金句收集
 ├── 修改记录/          # 重要修改、版本对比、复盘
-└── 工具/              # AI 提示词模板、写作风格指令
-    └── 提示词模板.md
+├── 工具/              # AI 提示词模板、写作风格指令、MCP 题材套件
+│   ├── 提示词模板.md
+│   ├── MCP题材套件.md
+│   ├── switch-mcp-profile.sh
+│   └── install-writing-skills.sh
+├── .cursor/           # Cursor MCP 配置（按题材切换）
+│   ├── mcp.json
+│   └── mcp.profiles/
+└── vault/             # Obsidian 笔记库（言情/古风）
 ```
 
 ## 🤝 协作流程
@@ -59,6 +66,24 @@ AI_writing/
 - 所有文档统一用 **Markdown** (`.md`) — 轻量、好读、Git 友好
 - 章节命名：`第001章-章节标题.md`（三位数编号，方便排序）
 - 中文文件名没问题，GitHub 完全支持
+
+## 🔌 MCP 题材套件
+
+按创作题材切换 Cursor MCP 工具，详见 **`工具/MCP题材套件.md`**。
+
+| 题材 | 套件 |
+|---|---|
+| 网文（玄幻/都市） | mem0 + Recraft + Tavily（+ Novelcrafter 本地替代） |
+| 言情/古风 | Ideogram + Obsidian（+ Sudowrite 浏览器） |
+| 科幻硬核 | World Anvil + arXiv + Midjourney |
+| 儿童/绘本 | Recraft + baoyu-comic Skill |
+| 悬疑/推理 | World Anvil + Lex（+ Acontext 自托管） |
+| 出版级长篇 | Lex + mem0 + Notion + baoyu-translate Skill |
+
+```bash
+cp .env.mcp.example .env.mcp   # 填入 API Key
+./工具/switch-mcp-profile.sh wangwen-xuanhuan-dushi
+```
 
 ## 🎯 当前状态
 

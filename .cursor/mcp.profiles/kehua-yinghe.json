@@ -1,0 +1,23 @@
+{
+  "$comment": "科幻硬核 | World Anvil + arXiv + Midjourney",
+  "mcpServers": {
+    "worldanvil": {
+      "command": "npx",
+      "args": ["-y", "worldanvil-mcp"],
+      "env": {
+        "WA_AUTH_TOKEN": "${env:WA_AUTH_TOKEN}"
+      }
+    },
+    "arxiv": {
+      "command": "npx",
+      "args": ["-y", "arxiv-query-mcp"]
+    },
+    "midjourney": {
+      "command": "uvx",
+      "args": ["mcp-midjourney"],
+      "env": {
+        "ACEDATACLOUD_API_TOKEN": "${env:ACEDATACLOUD_API_TOKEN}"
+      }
+    }
+  }
+}

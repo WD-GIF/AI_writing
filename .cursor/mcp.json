@@ -1,0 +1,30 @@
+{
+  "mcpServers": {
+    "mem0": {
+      "url": "https://mcp.mem0.ai/mcp/",
+      "headers": {
+        "Authorization": "Token ${env:MEM0_API_KEY}"
+      }
+    },
+    "tavily": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "tavily-mcp@latest"
+      ],
+      "env": {
+        "TAVILY_API_KEY": "${env:TAVILY_API_KEY}"
+      }
+    },
+    "recraft": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@recraft-ai/mcp-recraft-server@latest"
+      ],
+      "env": {
+        "RECRAFT_API_KEY": "${env:RECRAFT_API_KEY}"
+      }
+    }
+  }
+}

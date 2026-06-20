@@ -1,0 +1,19 @@
+{
+  "$comment": "悬疑/推理 | World Anvil + Lex + Acontext（Acontext 为自托管后端，见工具/MCP题材套件.md）",
+  "mcpServers": {
+    "worldanvil": {
+      "command": "npx",
+      "args": ["-y", "worldanvil-mcp"],
+      "env": {
+        "WA_AUTH_TOKEN": "${env:WA_AUTH_TOKEN}"
+      }
+    },
+    "lex": {
+      "command": "npx",
+      "args": ["-y", "@smartergpt/lex-mcp"],
+      "env": {
+        "LEX_WORKSPACE_ROOT": "${workspaceFolder}"
+      }
+    }
+  }
+}

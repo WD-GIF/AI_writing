@@ -1,0 +1,21 @@
+{
+  "$comment": "出版级长篇 | Lex + mem0 + Notion + baoyu-translate（translate 为 Skill）",
+  "mcpServers": {
+    "lex": {
+      "command": "npx",
+      "args": ["-y", "@smartergpt/lex-mcp"],
+      "env": {
+        "LEX_WORKSPACE_ROOT": "${workspaceFolder}"
+      }
+    },
+    "mem0": {
+      "url": "https://mcp.mem0.ai/mcp/",
+      "headers": {
+        "Authorization": "Token ${env:MEM0_API_KEY}"
+      }
+    },
+    "notion": {
+      "url": "https://mcp.notion.com/mcp"
+    }
+  }
+}
